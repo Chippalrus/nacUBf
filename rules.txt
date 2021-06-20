@@ -1,0 +1,73 @@
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: 192.168.1.110 false
+no-large-media: www.amazon.ca false
+no-large-media: www.arena.net false
+no-large-media: bakayaro.de false
+no-large-media: behind-the-scene false
+no-large-media: chippalrus.ca false
+no-large-media: dulfy.net false
+no-large-media: accountsettings.ebay.ca false
+no-large-media: bulksell.ebay.ca false
+no-large-media: gslblui.ebay.ca false
+no-large-media: mesg.ebay.ca false
+no-large-media: my.ebay.ca false
+no-large-media: ocswf.ebay.ca false
+no-large-media: cart.payments.ebay.ca false
+no-large-media: www.ebay.ca false
+no-large-media: www.epicgames.com false
+no-large-media: ever-wish.com false
+no-large-media: www.flickr.com false
+no-large-media: www.fowtcg.com false
+no-large-media: gfycat.com false
+no-large-media: www.gifdeliverynetwork.com false
+no-large-media: translate.google.ca false
+no-large-media: accounts.google.com false
+no-large-media: docs.google.com false
+no-large-media: drive.google.com false
+no-large-media: photos.google.com false
+no-large-media: wiki.guildwars2.com false
+no-large-media: www.guildwars2.com false
+no-large-media: en.gw2skills.net false
+no-large-media: www.humblebundle.com false
+no-large-media: imgur.com false
+no-large-media: www.indiegogo.com false
+no-large-media: www.instagram.com false
+no-large-media: www.joinhoney.com false
+no-large-media: shop.kingdomdeath.com false
+no-large-media: kumakreation.com false
+no-large-media: www.magicstronghold.com false
+no-large-media: www.mixamo.com false
+no-large-media: nightbot.tv false
+no-large-media: console.us-sanjose-1.oraclecloud.com false
+no-large-media: www.patreon.com false
+no-large-media: www.paypal.com false
+no-large-media: www.primevideo.com false
+no-large-media: www.reddit.com false
+no-large-media: www.redgifs.com false
+no-large-media: snowcrows.com false
+no-large-media: www.snupps.com false
+no-large-media: soundcloud.com false
+no-large-media: streamlabs.com false
+no-large-media: toywiz.com false
+no-large-media: www.twitch.tv false
+no-large-media: twitter.com false
+no-large-media: assetstore.unity.com false
+no-large-media: id.unity.com false
+no-large-media: voltacharger.com false
+no-large-media: login.yahoo.com false
+no-large-media: www.youtube.com false
+no-scripting: behind-the-scene false
+* aaxads.com * block
+* amazon-adsystem.com * block
+* joinhoney.com * allow
+* st.prntscr.com * block
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+www.twitch.tv amazon-adsystem.com * block
+www.youtube.com doubleclick.net * block
