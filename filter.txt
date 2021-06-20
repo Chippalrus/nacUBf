@@ -1,0 +1,127 @@
+www.twitch.tv##.recommended-friends
+www.twitch.tv##.recommended-channels
+www.reddit.com##.inner
+en.gw2skills.net###overlaymenu_opened
+en.gw2skills.net##.banners
+en.gw2skills.net##.footer
+en.gw2skills.net##.for_liora
+en.gw2skills.net##.menucontainer
+en.gw2skills.net##.navigator
+en.gw2skills.net##.overlay
+en.gw2skills.net##.profmap
+en.gw2skills.net##.quicklinks
+en.gw2skills.net##.xpbar
+http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
+http://cloud.gw2skills.net/img/main/topleft.jpg
+http://cloud.gw2skills.net/img/main/topright.jpg
+http://cloud3.gw2skills.net/img/main/top_prof/elementalist.png
+http://cloud3.gw2skills.net/img/main/top_prof/engineer.png
+http://cloud3.gw2skills.net/img/main/top_prof/guardian.png
+http://cloud3.gw2skills.net/img/main/top_prof/mesmer.png
+http://cloud3.gw2skills.net/img/main/top_prof/necromancer.png
+http://cloud3.gw2skills.net/img/main/top_prof/ranger.png
+http://cloud3.gw2skills.net/img/main/top_prof/thief.png
+http://cloud3.gw2skills.net/img/main/top_prof/warrior.png
+http://cloud3.gw2skills.net/img/main/top_prof/revenant.png
+http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
+http://cloud.gw2skills.net/img/main/topleft.jpg
+http://cloud.gw2skills.net/img/main/topright.jpg
+http://cloud.gw2skills.net/img/main/xpbar.png
+www.reddit.com##.kLZNVj.s1cbwutf-2
+www.reddit.com##.gthzyO.s1cbwutf-0
+www.reddit.com##.dotNyt.pqvesn-2
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##._ZhON3a3vplThB8NFwuJn
+www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(3) > .SNsiL.s73mpk5-0 > .TmgZY6tDcdErbE5d7E0HJ
+www.flickr.com###yui_3_11_0_3_1545047470039_361
+www.flickr.com###yui_3_11_0_3_1545047517019_353
+www.flickr.com##.spaceball
+www.tumblr.com###tumblr_radar
+www.reddit.com##.premium-banner
+www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
+www.twitch.tv##.tw-sm-flex.tw-hide > .top-nav__nav-link.tw-interactive
+forums.maplestory2.nexon.net##.page-footer > .find-here
+www.twitch.tv##div:nth-of-type(5) > .tw-tower--gutter-sm.tw-tower--300.tw-tower.tw-flex-wrap
+globalnews.ca###mainRight
+globalnews.ca##.rp-footer
+globalnews.ca###mainLeft
+globalnews.ca###search-input
+globalnews.ca##fieldset
+globalnews.ca##.radioplayer-globalnav
+globalnews.ca##.radioplayer-globalnav-wrapper
+globalnews.ca###mainRight
+globalnews.ca###mainLeft
+globalnews.ca##.rp-footer
+globalnews.ca###search-input
+globalnews.ca##fieldset
+globalnews.ca##.radioplayer-globalnav
+||corus-am-radio-rpframe-1.s3.amazonaws.com/images/station-logos-png/cknwam.png$image
+globalnews.ca##.radioplayer-globalnav-wrapper
+gfycat.com##.upnext-items
+sourceforge.net##.main-content
+sourceforge.net##.l-content-column
+sourceforge.net##.l-gutter
+sourceforge.net##.l-two-column-page
+sourceforge.net###mirror
+sourceforge.net##.l-nav-top
+www.reddit.com##.recs > div
+www.reddit.com##.endoflist
+www.reddit.com##.recs
+www.reddit.com##.sidecontentbox > .title
+idol.sankakucomplex.com###headerthumbs
+||is.sankakucomplex.com/logo.png$image
+www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(1)
+www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
+www.reddit.com##.img-container
+tags.literotica.com###udlsorix
+search.literotica.com###lbvytyn
+search.literotica.com##.SAAWidget__container
+www.ebay.com##.srp-survey
+www.ebay.ca##.ssellers-topPicks
+bulksell.ebay.ca###Facebook
+bulksell.ebay.ca###Twitter
+bulksell.ebay.ca###Pinterest
+bulksell.ebay.ca###Email
+www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(2)
+www.goodsmile.info###bloglink
+en.gw2skills.net##.header
+||img.gw2skills.net/editor/UI/bg/headers.png$image
+en.gw2skills.net##.mw-overlay
+prnt.sc##.footer
+prnt.sc##.header
+prnt.sc##.additional
+prnt.sc##body > .page-constrain
+prnt.sc##body > .top-grundik
+prnt.sc##form
+prnt.sc##.under-image
+https://st.prntscr.com/2019/09/03/1652/img/footer-logo.png
+https://prnt.sc/manifest.json
+www.howtogeek.com##.email-overlay
+www.howtogeek.com##.overlay-inner
+www.reddit.com##.trending-subreddits-content
+##ytd-thumbnail-overlay-toggle-button-renderer
+www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(4)
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(5)
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
+www.youtube.com##.ytp-ce-expanding-image
+www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > div.side-nav-section:nth-of-type(2)
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.twitch.tv##div.tw-flex-column.tw-flex.side-nav-section:nth-of-type(2)
+www.twitch.tv##.tw-transition__slide-over-top--enter-done.tw-transition__slide-over-top.tw-transition--enter-done.tw-transition > .tw-mg-y-1.tw-flex-column.tw-flex
+www.twitch.tv##.tw-flex-wrap.tw-flex.tw-align-items-center > .tw-flex-wrap.tw-flex.tw-align-items-center
+sourceforge.net##.show-for-large.l-header-nav-top.sandiego
+sourceforge.net##.l-header-nav-bottom.sandiego
+sourceforge.net###newsletter-floating
+studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
+www.twitch.tv##div.side-nav-section.fFlSEB.sc-AxjAm:nth-of-type(2)
+www.twitch.tv##div.kycibo.sc-AxjAm:nth-of-type(5)
+www.twitch.tv##div.kycibo.sc-AxjAm:nth-of-type(4)
+www.youtube.com##.ytp-paid-content-overlay
+
