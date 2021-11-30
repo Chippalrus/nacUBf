@@ -2,10 +2,16 @@ no-csp-reports: * true
 no-large-media: * true
 no-large-media: 192.168.1.110 false
 no-large-media: www.amazon.ca false
+no-large-media: gaming.amazon.com false
 no-large-media: www.arena.net false
 no-large-media: bakayaro.de false
 no-large-media: behind-the-scene false
+no-large-media: accounts.binance.com false
+no-large-media: www.binance.com false
+no-large-media: diabloimmortal.blizzard.com false
 no-large-media: chippalrus.ca false
+no-large-media: dash.cloudflare.com false
+no-large-media: my-store-c3ba17.creator-spring.com false
 no-large-media: dulfy.net false
 no-large-media: accountsettings.ebay.ca false
 no-large-media: bulksell.ebay.ca false
@@ -26,6 +32,7 @@ no-large-media: accounts.google.com false
 no-large-media: docs.google.com false
 no-large-media: drive.google.com false
 no-large-media: photos.google.com false
+no-large-media: voice.google.com false
 no-large-media: wiki.guildwars2.com false
 no-large-media: www.guildwars2.com false
 no-large-media: en.gw2skills.net false
@@ -33,28 +40,44 @@ no-large-media: www.humblebundle.com false
 no-large-media: imgur.com false
 no-large-media: www.indiegogo.com false
 no-large-media: www.instagram.com false
+no-large-media: kaylousberg.itch.io false
+no-large-media: kenney-assets.itch.io false
 no-large-media: www.joinhoney.com false
+no-large-media: www.kenney.nl false
 no-large-media: shop.kingdomdeath.com false
 no-large-media: kumakreation.com false
 no-large-media: www.magicstronghold.com false
+no-large-media: mintable.app false
 no-large-media: www.mixamo.com false
+no-large-media: www.newworld-map.com false
 no-large-media: nightbot.tv false
+no-large-media: opengameart.org false
 no-large-media: console.us-sanjose-1.oraclecloud.com false
 no-large-media: www.patreon.com false
 no-large-media: www.paypal.com false
 no-large-media: www.primevideo.com false
+no-large-media: quaternius.com false
 no-large-media: www.reddit.com false
 no-large-media: www.redgifs.com false
+no-large-media: www1.royalbank.com false
+no-large-media: sketchfab.com false
+no-large-media: smutba.se false
 no-large-media: snowcrows.com false
 no-large-media: www.snupps.com false
 no-large-media: soundcloud.com false
+no-large-media: www.spri.ng false
+no-large-media: streamelements.com false
 no-large-media: streamlabs.com false
+no-large-media: beyblade.takaratomy.co.jp false
+no-large-media: teespring.com false
 no-large-media: toywiz.com false
 no-large-media: www.twitch.tv false
 no-large-media: twitter.com false
 no-large-media: assetstore.unity.com false
 no-large-media: id.unity.com false
+no-large-media: publisher.unity.com false
 no-large-media: voltacharger.com false
+no-large-media: www.warframe.com false
 no-large-media: login.yahoo.com false
 no-large-media: www.youtube.com false
 no-scripting: behind-the-scene false
@@ -62,6 +85,7 @@ no-scripting: behind-the-scene false
 * amazon-adsystem.com * block
 * joinhoney.com * allow
 * st.prntscr.com * block
+* w3schools.in * block
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
