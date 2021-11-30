@@ -127,3 +127,29 @@ www.youtube.com##.ytp-paid-content-overlay
 www.twitch.tv##div.hvmCCH.sc-AxiKw:nth-of-type(4)
 www.twitch.tv##div.hvmCCH.sc-AxiKw:nth-of-type(5)
 www.twitch.tv##div.side-nav-section.dXUqgi.sc-AxiKw:nth-of-type(2)
+stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.twitch.tv##div.side-nav-section.bXvPxk.Layout-sc-nxg1ff-0:nth-of-type(2)
+www.twitch.tv##div.fFmtex.Layout-sc-nxg1ff-0:nth-of-type(4)
+www.twitch.tv##div.fFmtex.Layout-sc-nxg1ff-0:nth-of-type(5)
+www.reddit.com##.happening-now
+smutba.se##div.content-container:nth-of-type(1)
+dsp.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+electronics.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+forum.arduino.cc##.iubenda-cs-container
+smutba.se##.news__video
+www.twitch.tv##div.side-nav-section.bXvPxk.Layout-sc-nxg1ff-0:nth-of-type(3)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.twitch.tv##div.jZAMtK.Layout-sc-nxg1ff-0:nth-of-type(5)
+www.twitch.tv##div.jZAMtK.Layout-sc-nxg1ff-0:nth-of-type(4)
+www.twitch.tv##div.side-nav-section.bDMqsP.Layout-sc-nxg1ff-0:nth-of-type(2)
+www.twitch.tv##div.side-nav-section.bDMqsP.Layout-sc-nxg1ff-0:nth-of-type(3)
+www.twitch.tv##.vertical-selector__internal.fklxvM.Layout-sc-nxg1ff-0
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
+blender.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.ebay.ca###nume_html_100290 > .clear
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
