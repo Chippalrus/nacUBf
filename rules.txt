@@ -36,6 +36,7 @@ no-large-media: voice.google.com false
 no-large-media: wiki.guildwars2.com false
 no-large-media: www.guildwars2.com false
 no-large-media: en.gw2skills.net false
+no-large-media: www.hlj.com false
 no-large-media: www.humblebundle.com false
 no-large-media: imgur.com false
 no-large-media: www.indiegogo.com false
@@ -55,6 +56,8 @@ no-large-media: opengameart.org false
 no-large-media: console.us-sanjose-1.oraclecloud.com false
 no-large-media: www.patreon.com false
 no-large-media: www.paypal.com false
+no-large-media: account.pearlabyss.com false
+no-large-media: www.naeu.playblackdesert.com false
 no-large-media: www.primevideo.com false
 no-large-media: quaternius.com false
 no-large-media: www.reddit.com false
