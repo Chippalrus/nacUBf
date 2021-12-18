@@ -105,6 +105,7 @@ ebay.ca gstatic.com * allow
 ebay.ca hcaptcha.com * allow
 ebay.ca honey.io * allow
 ebay.ca joinhoney.com * allow
+ebay.ca newassets.hcaptcha.com frame allow
 ebay.ca vi.vipr.ebaydesc.com frame allow
 ebay.ca www.google.com frame allow
 ebay.com ebaydesc.com * allow
@@ -178,7 +179,13 @@ hasbropulse.com searchanise.com * allow
 hasbropulse.com shopify.com * allow
 hasbropulse.com shopifycs.com * allow
 hasbropulse.com shopifysvc.com * allow
+hlj.com gointerpay.net * allow
+hlj.com google.com * allow
+hlj.com gstatic.com * allow
+hlj.com klevu.com * allow
+hlj.com ksearchnet.com * allow
 hlj.com resultspage.com * allow
+hlj.com www.google.com frame allow
 humblebundle.com akamaihd.net * allow
 humblebundle.com amazon.com * allow
 humblebundle.com google.com * allow
