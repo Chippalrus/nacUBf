@@ -153,3 +153,4 @@ www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 www.ebay.ca###nume_html_100290 > .clear
 www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
