@@ -1,3 +1,9 @@
+www.youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
+www.youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope>:has-text(/@gmail.com/)
+studio.youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope>:has-text(/@gmail.com/)
+studio.youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-google-account-header-renderer.style-scope
+studio.youtube.com##.ytd-account-item-section-renderer.style-scope > .ytd-account-item-renderer.style-scope:has-text(/blank/)
+www.youtube.com##.ytd-account-item-section-renderer.style-scope > .ytd-account-item-renderer.style-scope:has-text(/blank/)
 www.twitch.tv##.recommended-friends
 www.twitch.tv##.recommended-channels
 www.reddit.com##.inner
