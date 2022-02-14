@@ -1,3 +1,4 @@
+youtube.com##ytd-browse[page-subtype="home"]
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/No channel/)
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/blank/)
 youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope:has-text(/@gmail.com/)
