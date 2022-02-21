@@ -10,8 +10,6 @@ youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/blank/)
 youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope:has-text(/@gmail.com/)
 youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
-www.twitch.tv##div.side-nav-section:nth-of-type(2)
-www.twitch.tv##div.side-nav-section:nth-of-type(3)
 www.twitch.tv##.recommended-friends
 www.twitch.tv##.recommended-channels
 www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
