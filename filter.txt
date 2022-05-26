@@ -28,8 +28,10 @@ www.twitch.tv##.extensions-dock-card
 www.twitch.tv##div.side-nav-section:has-text(/Recommended Channels/)
 www.twitch.tv##div.side-nav-section:has-text(/Popular Channels/)
 www.twitch.tv##div.side-nav-section:has-text(/Viewers Also Watch/)
+www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
 www.twitch.tv##.recommended-friends
 www.twitch.tv##.recommended-channels
+www.twitch.tv##.tw-tower.dcmlaV.ScTower-sc-1dei8tr-0 > div:has-text(/xQcOW/)
 www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
 www.twitch.tv##.tw-sm-flex.tw-hide > .top-nav__nav-link.tw-interactive
 www.twitch.tv##div:nth-of-type(5) > .tw-tower--gutter-sm.tw-tower--300.tw-tower.tw-flex-wrap
@@ -42,6 +44,7 @@ www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > div.side-nav-section:nth-o
 www.twitch.tv##div.tw-flex-column.tw-flex.side-nav-section:nth-of-type(2)
 www.twitch.tv##.tw-transition__slide-over-top--enter-done.tw-transition__slide-over-top.tw-transition--enter-done.tw-transition > .tw-mg-y-1.tw-flex-column.tw-flex
 www.twitch.tv##.tw-flex-wrap.tw-flex.tw-align-items-center > .tw-flex-wrap.tw-flex.tw-align-items-center
+www.twitch.tv##.extensions-dock-card
 en.gw2skills.net###overlaymenu_opened
 en.gw2skills.net##.banners
 en.gw2skills.net##.footer
@@ -176,6 +179,7 @@ twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy7
 twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
 twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/NHL/)
 @@||joinhoney.com*$document
 @@||joinhoney.com*$elemhide
 ! Cash Back Trackers
