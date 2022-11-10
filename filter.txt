@@ -12,6 +12,21 @@ www.youtube.com###dismissible:has-text(/Lazy Peon/)
 www.youtube.com###dismissible:has-text(/lazypeon/)
 www.youtube.com###dismissible:has-text(/Lazypeon/)
 www.youtube.com###dismissible:has-text(/Lazy peon/)
+www.youtube.com##.ytp-ce-expanding-image
+www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
+##ytd-thumbnail-overlay-toggle-button-renderer
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Shorts/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/YouTube Premium/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Sport/)
@@ -24,7 +39,51 @@ youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/blank/)
 youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope:has-text(/@gmail.com/)
 youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
-
+studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
+www.youtube.com##.ytp-paid-content-overlay
+www.twitch.tv##.extensions-dock-card
+www.twitch.tv##.side-nav__title:has-text(/For You/)
+www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
+www.twitch.tv##div.side-nav-section:has-text(/Recommended Channels/)
+www.twitch.tv##div.side-nav-section:has-text(/Popular Channels/)
+www.twitch.tv##div.side-nav-section:has-text(/Viewers Also Watch/)
+www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
+www.twitch.tv##div.side-nav-section[aria-label="For You"]
+www.twitch.tv##div.side-nav-section[aria-label="Similar Channels"]
+www.twitch.tv##div.side-nav-section[aria-label="Recommended Channels"]
+www.twitch.tv##div.side-nav-section[aria-label="Popular Channels"]
+www.twitch.tv##div.side-nav-section[aria-label="Viewers Also Watch"]
+www.twitch.tv##div.side-nav-section[aria-label*="Viewers Also Watch"]
+www.twitch.tv##div.side-nav-section[aria-label="Similar Channels"]
+www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
+www.twitch.tv##.tw-sm-flex.tw-hide > .top-nav__nav-link.tw-interactive
+www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(1)
+www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(2)
+www.twitch.tv##.recommended-friends
+www.twitch.tv##.recommended-channels
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(4)
+www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(5)
+www.twitch.tv##.tw-tower > div:has-text(xQc)
+www.twitch.tv##.tw-tower > div:has-text(/xQcOW/)
+www.twitch.tv##.tw-tower.dcmlaV.ScTower-sc-1dei8tr-0 > div:has-text(/xQcOW/)
+www.twitch.tv##div.tw-flex-column.tw-flex.side-nav-section:nth-of-type(2)
+www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card
+www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > div.side-nav-section:nth-of-type(2)
+www.twitch.tv##div:nth-of-type(5) > .tw-tower--gutter-sm.tw-tower--300.tw-tower.tw-flex-wrap
+www.twitch.tv##.tw-flex-wrap.tw-flex.tw-align-items-center > .tw-flex-wrap.tw-flex.tw-align-items-center
+www.twitch.tv##.tw-transition__slide-over-top--enter-done.tw-transition__slide-over-top.tw-transition--enter-done.tw-transition > .tw-mg-y-1.tw-flex-column.tw-flex
+www.twitch.tv##header[aria-label="Upcoming Streams"]
+www.twitch.tv###following-page-main-content > div > .ErUdM.Layout-sc-nxg1ff-0
+www.twitch.tv###following-page-main-content > div > .tw-tower.dcmlaV.ScTower-sc-1dei8tr-0
+www.twitch.tv##header[aria-label="Continue Watching"]
+www.twitch.tv##header[aria-label="Latest videos"]
+www.twitch.tv##header[aria-label="Live categories"]
+www.twitch.tv###following-page-main-content > div > div > .show-more__move-up
+www.twitch.tv###following-page-main-content > div > div > .find-me.fcPbos.Layout-sc-nxg1ff-0
+www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div[aria-labelledby="600f48b069d7dfdd"]
+www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div > .tw-tower
+www.twitch.tv###following-page-main-content > div > .show-more__move-up
+www.twitch.tv###following-page-main-content > div > div > div[aria-labelledby="d4b337729ff0d8eb"]
 en.gw2skills.net###overlaymenu_opened
 en.gw2skills.net##.banners
 en.gw2skills.net##.footer
@@ -54,6 +113,13 @@ http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
 http://cloud.gw2skills.net/img/main/topleft.jpg
 http://cloud.gw2skills.net/img/main/topright.jpg
 http://cloud.gw2skills.net/img/main/xpbar.png
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
+twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
 www.reddit.com##.inner
 www.reddit.com##.kLZNVj.s1cbwutf-2
 www.reddit.com##.gthzyO.s1cbwutf-0
@@ -68,15 +134,14 @@ www.reddit.com##.recs > div
 www.reddit.com##.endoflist
 www.reddit.com##.recs
 www.reddit.com##.sidecontentbox > .title
+www.reddit.com##.happening-now
+www.reddit.com##.trending-subreddits-content
 www.ebay.com##.srp-survey
 www.ebay.ca##.ssellers-topPicks
 bulksell.ebay.ca###Facebook
 bulksell.ebay.ca###Twitter
 bulksell.ebay.ca###Pinterest
 bulksell.ebay.ca###Email
-www.flickr.com###yui_3_11_0_3_1545047470039_361
-www.flickr.com###yui_3_11_0_3_1545047517019_353
-www.flickr.com##.spaceball
 www.tumblr.com###tumblr_radar
 gfycat.com##.upnext-items
 globalnews.ca###mainRight
@@ -94,17 +159,6 @@ globalnews.ca##fieldset
 globalnews.ca##.radioplayer-globalnav
 globalnews.ca##.radioplayer-globalnav-wrapper
 ||corus-am-radio-rpframe-1.s3.amazonaws.com/images/station-logos-png/cknwam.png$image
-sourceforge.net##.main-content
-sourceforge.net##.l-content-column
-sourceforge.net##.l-gutter
-sourceforge.net##.l-two-column-page
-sourceforge.net###mirror
-sourceforge.net##.l-nav-top
-idol.sankakucomplex.com###headerthumbs
-||is.sankakucomplex.com/logo.png$image
-tags.literotica.com###udlsorix
-search.literotica.com###lbvytyn
-search.literotica.com##.SAAWidget__container
 www.goodsmile.info###bloglink
 prnt.sc##.footer
 prnt.sc##.header
@@ -117,49 +171,43 @@ https://st.prntscr.com/2019/09/03/1652/img/footer-logo.png
 https://prnt.sc/manifest.json
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
-www.reddit.com##.trending-subreddits-content
-##ytd-thumbnail-overlay-toggle-button-renderer
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
-www.youtube.com##.ytp-ce-expanding-image
-www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 sourceforge.net##.show-for-large.l-header-nav-top.sandiego
 sourceforge.net##.l-header-nav-bottom.sandiego
 sourceforge.net###newsletter-floating
-studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
-www.youtube.com##.ytp-paid-content-overlay
+sourceforge.net##.l-nav-bottom
+sourceforge.net##.footer-wrapper
+sourceforge.net##.main-content
+sourceforge.net##.l-content-column
+sourceforge.net##.l-gutter
+sourceforge.net##.l-two-column-page
+sourceforge.net###mirror
+sourceforge.net##.l-nav-top
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-www.reddit.com##.happening-now
-smutba.se##div.content-container:nth-of-type(1)
 dsp.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 electronics.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 forum.arduino.cc##.iubenda-cs-container
-smutba.se##.news__video
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
 blender.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+keepass.info###consent_dlg
+keepass.info###consent_c
 www.ebay.ca###nume_html_100290 > .clear
-www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
+www.ebay.ca##.aspects-1.container_wrapper
+www.flickr.com##.theme-flat.ad-card
+www.flickr.com##.ad-rail-card
+www.flickr.com##.feed-rail-content-container
+www.flickr.com##.moola-search-view.view:has-text(/Upgrade to Flickr Pro to hide these ads/)
+www.flickr.com###yui_3_11_0_3_1545047470039_361
+www.flickr.com###yui_3_11_0_3_1545047517019_353
+www.flickr.com##.spaceball
 warframe.fandom.com##.discord-module.rail-module
+idol.sankakucomplex.com###headerthumbs
+||is.sankakucomplex.com/logo.png$image
+tags.literotica.com###udlsorix
+search.literotica.com###lbvytyn
+search.literotica.com##.SAAWidget__container
+smutba.se##div.content-container:nth-of-type(1)
+smutba.se##.news__video
 ||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
 ##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
-twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
-twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/NHL/)
 @@||joinhoney.com*$document
 @@||joinhoney.com*$elemhide
 ! Cash Back Trackers
