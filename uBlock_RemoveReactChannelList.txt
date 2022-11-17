@@ -1,0 +1,9 @@
+! Removes React Channels from Search results
+www.youtube.com###dismissible:has-text(/APENLIVE/)
+www.youtube.com###dismissible:has-text(/Under The Influence/)
+www.youtube.com###dismissible:has-text(/SwoleBenji/)
+www.youtube.com###dismissible:has-text(/Kexis/)
+www.youtube.com###dismissible:has-text(/react-O-mat/)
+www.youtube.com###dismissible:has-text(/Velo City/)
+www.youtube.com###dismissible:has-text(/Darkcore dude/)
+www.youtube.com##ytd-video-renderer:has-text(/Dino Rathy/)
