@@ -9,6 +9,7 @@ no-large-media: behind-the-scene false
 no-large-media: accounts.binance.com false
 no-large-media: www.binance.com false
 no-large-media: diabloimmortal.blizzard.com false
+no-large-media: www.cgtrader.com false
 no-large-media: chippalrus.ca false
 no-large-media: dash.cloudflare.com false
 no-large-media: my-store-c3ba17.creator-spring.com false
@@ -19,19 +20,25 @@ no-large-media: gslblui.ebay.ca false
 no-large-media: mesg.ebay.ca false
 no-large-media: my.ebay.ca false
 no-large-media: ocswf.ebay.ca false
+no-large-media: pay.ebay.ca false
 no-large-media: cart.payments.ebay.ca false
 no-large-media: www.ebay.ca false
 no-large-media: www.epicgames.com false
 no-large-media: ever-wish.com false
+no-large-media: fantia.jp false
 no-large-media: www.flickr.com false
 no-large-media: www.fowtcg.com false
 no-large-media: gfycat.com false
 no-large-media: www.gifdeliverynetwork.com false
+no-large-media: www.gog.com false
 no-large-media: translate.google.ca false
 no-large-media: accounts.google.com false
 no-large-media: docs.google.com false
 no-large-media: drive.google.com false
+no-large-media: console.firebase.google.com false
+no-large-media: mail.google.com false
 no-large-media: photos.google.com false
+no-large-media: play.google.com false
 no-large-media: voice.google.com false
 no-large-media: wiki.guildwars2.com false
 no-large-media: www.guildwars2.com false
@@ -41,6 +48,7 @@ no-large-media: www.humblebundle.com false
 no-large-media: imgur.com false
 no-large-media: www.indiegogo.com false
 no-large-media: www.instagram.com false
+no-large-media: itch.io false
 no-large-media: kaylousberg.itch.io false
 no-large-media: kenney-assets.itch.io false
 no-large-media: www.joinhoney.com false
@@ -57,11 +65,13 @@ no-large-media: console.us-sanjose-1.oraclecloud.com false
 no-large-media: www.patreon.com false
 no-large-media: www.paypal.com false
 no-large-media: account.pearlabyss.com false
+no-large-media: www.pixiv.net false
 no-large-media: www.naeu.playblackdesert.com false
 no-large-media: www.primevideo.com false
 no-large-media: quaternius.com false
 no-large-media: www.reddit.com false
 no-large-media: www.redgifs.com false
+no-large-media: ridge.com false
 no-large-media: www1.royalbank.com false
 no-large-media: sketchfab.com false
 no-large-media: smutba.se false
@@ -74,6 +84,7 @@ no-large-media: streamlabs.com false
 no-large-media: beyblade.takaratomy.co.jp false
 no-large-media: teespring.com false
 no-large-media: toywiz.com false
+no-large-media: www.tumblr.com false
 no-large-media: www.twitch.tv false
 no-large-media: twitter.com false
 no-large-media: assetstore.unity.com false
@@ -96,5 +107,7 @@ behind-the-scene * 3p-frame noop
 behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
+teespring.com taplytics.com * allow
+teespring.com trackjs.com * allow
 www.twitch.tv amazon-adsystem.com * block
 www.youtube.com doubleclick.net * block
