@@ -4,6 +4,7 @@ no-large-media: 192.168.1.110 false
 no-large-media: www.amazon.ca false
 no-large-media: gaming.amazon.com false
 no-large-media: www.arena.net false
+no-large-media: www.artstation.com false
 no-large-media: bakayaro.de false
 no-large-media: behind-the-scene false
 no-large-media: accounts.binance.com false
@@ -25,12 +26,12 @@ no-large-media: cart.payments.ebay.ca false
 no-large-media: www.ebay.ca false
 no-large-media: www.epicgames.com false
 no-large-media: ever-wish.com false
-no-large-media: fantia.jp false
 no-large-media: www.flickr.com false
 no-large-media: www.fowtcg.com false
+no-large-media: mastodon.gamedev.place false
 no-large-media: gfycat.com false
 no-large-media: www.gifdeliverynetwork.com false
-no-large-media: www.gog.com false
+no-large-media: github.com false
 no-large-media: translate.google.ca false
 no-large-media: accounts.google.com false
 no-large-media: docs.google.com false
@@ -84,6 +85,7 @@ no-large-media: streamlabs.com false
 no-large-media: beyblade.takaratomy.co.jp false
 no-large-media: teespring.com false
 no-large-media: toywiz.com false
+no-large-media: chippalrus.tumblr.com false
 no-large-media: www.tumblr.com false
 no-large-media: www.twitch.tv false
 no-large-media: twitter.com false
