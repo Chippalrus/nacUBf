@@ -1,17 +1,3 @@
-www.reddit.com##.link:has-text(/TheLazyPeon/)
-www.youtube.com###content-section:has-text(/TheLazyPeon/)
-www.youtube.com##ytd-radio-renderer:has-text(/TheLazyPeon/)
-www.youtube.com##ytd-video-renderer:has-text(/TheLazyPeon/)
-www.youtube.com##ytd-shelf-renderer:has-text(/TheLazyPeon/)
-www.youtube.com##ytd-playlist-renderer:has-text(/LazyPeon/)
-www.youtube.com##ytd-playlist-renderer:has-text(/Lazy Peon/)
-www.youtube.com##ytd-playlist-renderer:has-text(/Lazy peon/)
-www.youtube.com###dismissible:has-text(/LazyPeon/)
-www.youtube.com###dismissible:has-text(/The Lazy Peon/)
-www.youtube.com###dismissible:has-text(/Lazy Peon/)
-www.youtube.com###dismissible:has-text(/lazypeon/)
-www.youtube.com###dismissible:has-text(/Lazypeon/)
-www.youtube.com###dismissible:has-text(/Lazy peon/)
 www.youtube.com##.ytp-ce-expanding-image
 www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
@@ -63,9 +49,6 @@ www.twitch.tv##.recommended-friends
 www.twitch.tv##.recommended-channels
 www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(4)
 www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(5)
-www.twitch.tv##.tw-tower > div:has-text(xQc)
-www.twitch.tv##.tw-tower > div:has-text(/xQcOW/)
-www.twitch.tv##.tw-tower.dcmlaV.ScTower-sc-1dei8tr-0 > div:has-text(/xQcOW/)
 www.twitch.tv##div.tw-flex-column.tw-flex.side-nav-section:nth-of-type(2)
 www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card
 www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > div.side-nav-section:nth-of-type(2)
@@ -121,6 +104,17 @@ twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ys
 twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
 twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
+twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div > div:has-text(/NHL/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/MLB/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
+twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Sports/)
+twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Entertainment/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follows/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Serie A/)
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
+twitter.com##article:has-text(/liked/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+www.tumblr.com##div.FZkjV:nth-of-type(2)
 www.reddit.com##.inner
 www.reddit.com##.kLZNVj.s1cbwutf-2
 www.reddit.com##.gthzyO.s1cbwutf-0
@@ -200,6 +194,7 @@ www.flickr.com###yui_3_11_0_3_1545047470039_361
 www.flickr.com###yui_3_11_0_3_1545047517019_353
 www.flickr.com##.spaceball
 warframe.fandom.com##.discord-module.rail-module
+warframe.fandom.com##.WikiaRail.right-rail-wrapper
 idol.sankakucomplex.com###headerthumbs
 ||is.sankakucomplex.com/logo.png$image
 tags.literotica.com###udlsorix
