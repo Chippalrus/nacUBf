@@ -166,17 +166,6 @@ https://st.prntscr.com/2019/09/03/1652/img/footer-logo.png
 https://prnt.sc/manifest.json
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
-sourceforge.net##.show-for-large.l-header-nav-top.sandiego
-sourceforge.net##.l-header-nav-bottom.sandiego
-sourceforge.net###newsletter-floating
-sourceforge.net##.l-nav-bottom
-sourceforge.net##.footer-wrapper
-sourceforge.net##.main-content
-sourceforge.net##.l-content-column
-sourceforge.net##.l-gutter
-sourceforge.net##.l-two-column-page
-sourceforge.net###mirror
-sourceforge.net##.l-nav-top
 stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 dsp.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 electronics.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
