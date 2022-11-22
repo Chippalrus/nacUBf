@@ -27,47 +27,6 @@ youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-
 youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
 studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
 www.youtube.com##.ytp-paid-content-overlay
-www.twitch.tv##.extensions-dock-card
-www.twitch.tv##.side-nav__title:has-text(/For You/)
-www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
-www.twitch.tv##div.side-nav-section:has-text(/Recommended Channels/)
-www.twitch.tv##div.side-nav-section:has-text(/Popular Channels/)
-www.twitch.tv##div.side-nav-section:has-text(/Viewers Also Watch/)
-www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
-www.twitch.tv##div.side-nav-section[aria-label="For You"]
-www.twitch.tv##div.side-nav-section[aria-label="Similar Channels"]
-www.twitch.tv##div.side-nav-section[aria-label="Recommended Channels"]
-www.twitch.tv##div.side-nav-section[aria-label="Popular Channels"]
-www.twitch.tv##div.side-nav-section[aria-label="Viewers Also Watch"]
-www.twitch.tv##div.side-nav-section[aria-label*="Viewers Also Watch"]
-www.twitch.tv##div.side-nav-section[aria-label="Similar Channels"]
-www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
-www.twitch.tv##.tw-sm-flex.tw-hide > .top-nav__nav-link.tw-interactive
-www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(1)
-www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(2)
-www.twitch.tv##.recommended-friends
-www.twitch.tv##.recommended-channels
-www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(4)
-www.twitch.tv##div.tw-xl-pd-x-2.tw-pd-x-1.tw-full-height.tw-flex-column.tw-flex:nth-of-type(5)
-www.twitch.tv##div.tw-flex-column.tw-flex.side-nav-section:nth-of-type(2)
-www.twitch.tv##.community-highlight-stack__card--wide.community-highlight-stack__card
-www.twitch.tv##.tw-flex-grow-1 > div:nth-of-type(1) > div.side-nav-section:nth-of-type(2)
-www.twitch.tv##div:nth-of-type(5) > .tw-tower--gutter-sm.tw-tower--300.tw-tower.tw-flex-wrap
-www.twitch.tv##.tw-flex-wrap.tw-flex.tw-align-items-center > .tw-flex-wrap.tw-flex.tw-align-items-center
-www.twitch.tv##.tw-transition__slide-over-top--enter-done.tw-transition__slide-over-top.tw-transition--enter-done.tw-transition > .tw-mg-y-1.tw-flex-column.tw-flex
-www.twitch.tv##header[aria-label="Upcoming Streams"]
-www.twitch.tv###following-page-main-content > div > .ErUdM.Layout-sc-nxg1ff-0
-www.twitch.tv###following-page-main-content > div > .tw-tower.dcmlaV.ScTower-sc-1dei8tr-0
-www.twitch.tv##header[aria-label="Continue Watching"]
-www.twitch.tv##header[aria-label="Latest videos"]
-www.twitch.tv##header[aria-label="Live categories"]
-www.twitch.tv###following-page-main-content > div > div > .show-more__move-up
-www.twitch.tv###following-page-main-content > div > div > .find-me.fcPbos.Layout-sc-nxg1ff-0
-www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div[aria-labelledby="600f48b069d7dfdd"]
-www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div > .tw-tower
-www.twitch.tv###following-page-main-content > div > .show-more__move-up
-www.twitch.tv###following-page-main-content > div > div > div[aria-labelledby="d4b337729ff0d8eb"]
-www.twitch.tv##button:has-text(/Watch Ad/)
 en.gw2skills.net###overlaymenu_opened
 en.gw2skills.net##.banners
 en.gw2skills.net##.footer
