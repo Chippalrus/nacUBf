@@ -39,6 +39,5 @@ www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div > .tw-to
 www.twitch.tv###following-page-main-content > div > .show-more__move-up
 www.twitch.tv###following-page-main-content > div > div > div[aria-labelledby="d4b337729ff0d8eb"]
 www.twitch.tv##button:has-text(/Watch Ad/)
-www.twitch.tv##button:has-text(/Watch Ad/)
 www.twitch.tv##span[Data-a-target="video-ad-label"]
 www.twitch.tv##div[data-a-target="ax-overlay"]
