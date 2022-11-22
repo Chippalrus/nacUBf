@@ -67,7 +67,7 @@ www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div[aria-lab
 www.twitch.tv###following-page-main-content > .Layout-sc-nxg1ff-0 > div > .tw-tower
 www.twitch.tv###following-page-main-content > div > .show-more__move-up
 www.twitch.tv###following-page-main-content > div > div > div[aria-labelledby="d4b337729ff0d8eb"]
-www.twitch.tv##.bqkMWY.Layout-sc-nxg1ff-0:has-text(/Watch Ad Free/)
+www.twitch.tv##button:has-text(/Watch Ad/)
 en.gw2skills.net###overlaymenu_opened
 en.gw2skills.net##.banners
 en.gw2skills.net##.footer
