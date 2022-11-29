@@ -72,7 +72,8 @@ twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follo
 twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Serie A/)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
 twitter.com##article:has-text(/liked/)
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
+twitter.com##[data-testid="tweet"]:has-text(/follow/)
+twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text(/World Cup/)
 www.tumblr.com##div.FZkjV:nth-of-type(2)
 www.reddit.com##.inner
 www.reddit.com##.kLZNVj.s1cbwutf-2
@@ -143,13 +144,8 @@ www.flickr.com###yui_3_11_0_3_1545047517019_353
 www.flickr.com##.spaceball
 warframe.fandom.com##.discord-module.rail-module
 warframe.fandom.com##.WikiaRail.right-rail-wrapper
-idol.sankakucomplex.com###headerthumbs
-||is.sankakucomplex.com/logo.png$image
-tags.literotica.com###udlsorix
-search.literotica.com###lbvytyn
-search.literotica.com##.SAAWidget__container
-smutba.se##div.content-container:nth-of-type(1)
-smutba.se##.news__video
+sourceforge.net###mirror
+sourceforge.net##.scroll-fixable:has-text(/Related/)
 ||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
 ##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 @@||joinhoney.com*$document
