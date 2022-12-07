@@ -1,127 +1,24 @@
-www.youtube.com##.ytp-ce-expanding-image
-www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
-##ytd-thumbnail-overlay-toggle-button-renderer
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Shorts/)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/YouTube Premium/)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Sport/)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Fashion & beauty/)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
-www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
-www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
+! Disables Youtube Home Page
 youtube.com##ytd-browse[page-subtype="home"]
+! For Account Switcher, A band-aid approach to hide Youtube Info
+www.youtube.com###header > .ytd-account-section-list-renderer.style-scope
+www.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
+studio.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/No channel/)
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/blank/)
 youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope:has-text(/@gmail.com/)
 youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
-studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
-www.youtube.com##.ytp-paid-content-overlay
-en.gw2skills.net###overlaymenu_opened
-en.gw2skills.net##.banners
-en.gw2skills.net##.footer
-en.gw2skills.net##.for_liora
-en.gw2skills.net##.menucontainer
-en.gw2skills.net##.navigator
-en.gw2skills.net##.overlay
-en.gw2skills.net##.profmap
-en.gw2skills.net##.quicklinks
-en.gw2skills.net##.xpbar
-en.gw2skills.net##.header
-||img.gw2skills.net/editor/UI/bg/headers.png$image
-en.gw2skills.net##.mw-overlay
-http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
-http://cloud.gw2skills.net/img/main/topleft.jpg
-http://cloud.gw2skills.net/img/main/topright.jpg
-http://cloud3.gw2skills.net/img/main/top_prof/elementalist.png
-http://cloud3.gw2skills.net/img/main/top_prof/engineer.png
-http://cloud3.gw2skills.net/img/main/top_prof/guardian.png
-http://cloud3.gw2skills.net/img/main/top_prof/mesmer.png
-http://cloud3.gw2skills.net/img/main/top_prof/necromancer.png
-http://cloud3.gw2skills.net/img/main/top_prof/ranger.png
-http://cloud3.gw2skills.net/img/main/top_prof/thief.png
-http://cloud3.gw2skills.net/img/main/top_prof/warrior.png
-http://cloud3.gw2skills.net/img/main/top_prof/revenant.png
-http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
-http://cloud.gw2skills.net/img/main/topleft.jpg
-http://cloud.gw2skills.net/img/main/topright.jpg
-http://cloud.gw2skills.net/img/main/xpbar.png
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
-twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
-twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
-twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
-twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
-twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
-twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div > div:has-text(/NHL/)
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/MLB/)
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
-twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Sports/)
-twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Entertainment/)
-twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follows/)
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Serie A/)
-twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
-twitter.com##article:has-text(/liked/)
-twitter.com##[data-testid="tweet"]:has-text(/follow/)
-twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text(/World Cup/)
-twitter.com##a[href="/explore/tabs/sports_unified"]
-twitter.com##a[href="/explore/tabs/entertainment_unified"]
-twitter.com##div > div > aside[aria-label="Who to follow"]
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
-www.tumblr.com##div.FZkjV:nth-of-type(2)
-www.reddit.com##.inner
-www.reddit.com##.kLZNVj.s1cbwutf-2
-www.reddit.com##.gthzyO.s1cbwutf-0
-www.reddit.com##.dotNyt.pqvesn-2
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
-www.reddit.com##._ZhON3a3vplThB8NFwuJn
-www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(3) > .SNsiL.s73mpk5-0 > .TmgZY6tDcdErbE5d7E0HJ
-www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
-www.reddit.com##.img-container
-www.reddit.com##.premium-banner
-www.reddit.com##.recs > div
-www.reddit.com##.endoflist
-www.reddit.com##.recs
-www.reddit.com##.sidecontentbox > .title
-www.reddit.com##.happening-now
-www.reddit.com##.trending-subreddits-content
-www.ebay.com##.srp-survey
-www.ebay.ca##.ssellers-topPicks
+! Ebay
 bulksell.ebay.ca###Facebook
 bulksell.ebay.ca###Twitter
 bulksell.ebay.ca###Pinterest
 bulksell.ebay.ca###Email
-www.tumblr.com###tumblr_radar
-gfycat.com##.upnext-items
-www.howtogeek.com##.email-overlay
-www.howtogeek.com##.overlay-inner
-keepass.info###consent_dlg
-keepass.info###consent_c
+www.ebay.com##.srp-survey
+www.ebay.ca##.ssellers-topPicks
 www.ebay.ca###nume_html_100290 > .clear
 www.ebay.ca##.aspects-1.container_wrapper
-www.flickr.com##.theme-flat.ad-card
-www.flickr.com##.ad-rail-card
-www.flickr.com##.feed-rail-content-container
-www.flickr.com##.moola-search-view.view:has-text(/Upgrade to Flickr Pro to hide these ads/)
-www.flickr.com###yui_3_11_0_3_1545047470039_361
-www.flickr.com###yui_3_11_0_3_1545047517019_353
-www.flickr.com##.spaceball
-warframe.fandom.com##.discord-module.rail-module
-warframe.fandom.com##.WikiaRail.right-rail-wrapper
-sourceforge.net###mirror
-sourceforge.net##.scroll-fixable:has-text(/Related/)
-||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
-##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+@@||rover.ebay.com^*
+@@||ebay.com^*
 ! Removes Amazon URL
 $removeparam=/^p[fd]_rd_[a-z]*=/,domain=amazon.*
 $removeparam=qid,domain=amazon.*
@@ -158,16 +55,121 @@ $removeparam=ats,domain=amazon.*
 $removeparam=qu,domain=amazon.*
 $removeparam=refinements,domain=amazon.*
 $removeparam=rps,domain=amazon.*
-! Misc
-@@||joinhoney.com*$document
-@@||joinhoney.com*$elemhide
-@@||joinhoney.com^*
-@@||joinhoney.com^*$~third-party
-@@||honey.io^*
-! Affiliate Networks
-@@||rover.ebay.com^*
-@@||ebay.com^*
-! For Account Switcher, A band-aid approach to hide Youtube Info
-www.youtube.com###header > .ytd-account-section-list-renderer.style-scope
-www.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
-studio.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
+! GW2
+en.gw2skills.net###overlaymenu_opened
+en.gw2skills.net##.banners
+en.gw2skills.net##.footer
+en.gw2skills.net##.for_liora
+en.gw2skills.net##.menucontainer
+en.gw2skills.net##.navigator
+en.gw2skills.net##.overlay
+en.gw2skills.net##.profmap
+en.gw2skills.net##.quicklinks
+en.gw2skills.net##.xpbar
+en.gw2skills.net##.header
+en.gw2skills.net##.mw-overlay
+||img.gw2skills.net/editor/UI/bg/headers.png$image
+http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
+http://cloud.gw2skills.net/img/main/topleft.jpg
+http://cloud.gw2skills.net/img/main/topright.jpg
+http://cloud3.gw2skills.net/img/main/top_prof/elementalist.png
+http://cloud3.gw2skills.net/img/main/top_prof/engineer.png
+http://cloud3.gw2skills.net/img/main/top_prof/guardian.png
+http://cloud3.gw2skills.net/img/main/top_prof/mesmer.png
+http://cloud3.gw2skills.net/img/main/top_prof/necromancer.png
+http://cloud3.gw2skills.net/img/main/top_prof/ranger.png
+http://cloud3.gw2skills.net/img/main/top_prof/thief.png
+http://cloud3.gw2skills.net/img/main/top_prof/warrior.png
+http://cloud3.gw2skills.net/img/main/top_prof/revenant.png
+http://cloud.gw2skills.net/img/main/bodybackground_white.jpg
+http://cloud.gw2skills.net/img/main/topleft.jpg
+http://cloud.gw2skills.net/img/main/topright.jpg
+http://cloud.gw2skills.net/img/main/xpbar.png
+! Fandom pages
+warframe.fandom.com##.discord-module.rail-module
+warframe.fandom.com##.WikiaRail.right-rail-wrapper
+! Socials
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
+twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1uhd6vh.r-1uaug3w.css-1dbjc4n
+twitter.com##.r-1udh08x.r-1bro5k0.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n
+twitter.com##div.r-1udh08x.r-ku1wi2.r-rs99b7.r-1phboty.r-t23y2h.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(4)
+twitter.com##.r-13qz1uu.r-1ye8kvj.r-1jgb5lz.css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > .css-1dbjc4n > div > div:has-text(/NHL/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/MLB/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
+twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Sports/)
+twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Entertainment/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follows/)
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Serie A/)
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
+twitter.com##article:has-text(/liked/)
+twitter.com##[data-testid="tweet"]:has-text(/follow/)
+twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text(/World Cup/)
+twitter.com##a[href="/explore/tabs/sports_unified"]
+twitter.com##a[href="/explore/tabs/entertainment_unified"]
+twitter.com##div > div > aside[aria-label="Who to follow"]
+twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
+twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ␣/)
+www.flickr.com##.theme-flat.ad-card
+www.flickr.com##.ad-rail-card
+www.flickr.com##.feed-rail-content-container
+www.flickr.com##.moola-search-view.view:has-text(/Upgrade to Flickr Pro to hide these ads/)
+www.flickr.com###yui_3_11_0_3_1545047470039_361
+www.flickr.com###yui_3_11_0_3_1545047517019_353
+www.flickr.com##.spaceball
+www.reddit.com##.inner
+www.reddit.com##.kLZNVj.s1cbwutf-2
+www.reddit.com##.gthzyO.s1cbwutf-0
+www.reddit.com##.dotNyt.pqvesn-2
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##._ZhON3a3vplThB8NFwuJn
+www.reddit.com##div.fePAzF.ii4q9d-0:nth-of-type(3) > .SNsiL.s73mpk5-0 > .TmgZY6tDcdErbE5d7E0HJ
+www.reddit.com##.redesignbetabar-js.redesignNightmodeBar.onboardingbar.infobar > .onboardingbar-body > header
+www.reddit.com##.img-container
+www.reddit.com##.premium-banner
+www.reddit.com##.recs > div
+www.reddit.com##.endoflist
+www.reddit.com##.recs
+www.reddit.com##.sidecontentbox > .title
+www.reddit.com##.happening-now
+www.reddit.com##.trending-subreddits-content
+www.tumblr.com##div.FZkjV:nth-of-type(2)
+www.tumblr.com###tumblr_radar
+www.youtube.com##.ytp-paid-content-overlay
+www.youtube.com##.ytp-ce-expanding-image
+www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Shorts/)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/YouTube Premium/)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Sport/)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Fashion & beauty/)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
+www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
+##ytd-thumbnail-overlay-toggle-button-renderer
+studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
+! Other websites cosmetic changes
+keepass.info###consent_dlg
+keepass.info###consent_c
+sourceforge.net###mirror
+sourceforge.net##.scroll-fixable:has-text(/Related/)
+||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
+##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+literotica.com###udlsorix
+literotica.com###lbvytyn
+literotica.com##.SAAWidget__container
+smutba.se##div.content-container:nth-of-type(1)
+smutba.se##.news__video
