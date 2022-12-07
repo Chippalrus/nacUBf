@@ -42,4 +42,5 @@ www.twitch.tv##button:has-text(/Watch Ad/)
 www.twitch.tv##span[Data-a-target="video-ad-label"]
 www.twitch.tv##div[data-a-target="ax-overlay"]
 www.twitch.tv##.smarter-sort-callout
+www.twitch.tv##div[data-test-selector="sad-overlay"]
 ||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
