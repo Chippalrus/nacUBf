@@ -99,38 +99,8 @@ bulksell.ebay.ca###Pinterest
 bulksell.ebay.ca###Email
 www.tumblr.com###tumblr_radar
 gfycat.com##.upnext-items
-globalnews.ca###mainRight
-globalnews.ca##.rp-footer
-globalnews.ca###mainLeft
-globalnews.ca###search-input
-globalnews.ca##fieldset
-globalnews.ca##.radioplayer-globalnav
-globalnews.ca##.radioplayer-globalnav-wrapper
-globalnews.ca###mainRight
-globalnews.ca###mainLeft
-globalnews.ca##.rp-footer
-globalnews.ca###search-input
-globalnews.ca##fieldset
-globalnews.ca##.radioplayer-globalnav
-globalnews.ca##.radioplayer-globalnav-wrapper
-||corus-am-radio-rpframe-1.s3.amazonaws.com/images/station-logos-png/cknwam.png$image
-www.goodsmile.info###bloglink
-prnt.sc##.footer
-prnt.sc##.header
-prnt.sc##.additional
-prnt.sc##body > .page-constrain
-prnt.sc##body > .top-grundik
-prnt.sc##form
-prnt.sc##.under-image
-https://st.prntscr.com/2019/09/03/1652/img/footer-logo.png
-https://prnt.sc/manifest.json
 www.howtogeek.com##.email-overlay
 www.howtogeek.com##.overlay-inner
-stackoverflow.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-dsp.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-electronics.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-forum.arduino.cc##.iubenda-cs-container
-blender.stackexchange.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
 keepass.info###consent_dlg
 keepass.info###consent_c
 www.ebay.ca###nume_html_100290 > .clear
