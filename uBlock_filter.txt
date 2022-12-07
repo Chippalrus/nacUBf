@@ -127,3 +127,7 @@ sourceforge.net##.scroll-fixable:has-text(/Related/)
 ! Affiliate Networks
 @@||rover.ebay.com^*
 @@||ebay.com^*
+! For Account Switcher, A band-aid approach to hide Youtube Info
+www.youtube.com###header > .ytd-account-section-list-renderer.style-scope
+www.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
+studio.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
