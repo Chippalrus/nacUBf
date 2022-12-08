@@ -44,3 +44,5 @@ www.twitch.tv##div[data-a-target="ax-overlay"]
 www.twitch.tv##.smarter-sort-callout
 www.twitch.tv##div[data-test-selector="sad-overlay"]
 ||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
+! Removes the React button next to follow from Twitch
+www.twitch.tv##button:has-text(/React/)
