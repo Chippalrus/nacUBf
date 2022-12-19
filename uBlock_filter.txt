@@ -110,7 +110,6 @@ twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text
 twitter.com##a[href="/explore/tabs/sports_unified"]
 twitter.com##a[href="/explore/tabs/entertainment_unified"]
 twitter.com##div > div > aside[aria-label="Who to follow"]
-twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Football/)
 twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ␣/)
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
