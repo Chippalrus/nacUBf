@@ -104,7 +104,6 @@ twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.
 twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follows/)
 twitter.com##.r-1ny4l3l.r-1adg3ll.css-1dbjc4n > .css-1dbjc4n > .r-6416eg.r-o7ynqc.r-1ny4l3l.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Serie A/)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
-twitter.com##article:has-text(/liked/)
 twitter.com##[data-testid="tweet"]:has-text(/follow/)
 twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text(/World Cup/)
 twitter.com##a[href="/explore/tabs/sports_unified"]
