@@ -1,4 +1,4 @@
-! Removes React Channels from Search results List updated whenever I see one in search results
+! Removes specific Channels from Search results
 www.youtube.com###dismissible:has-text(/APENLIVE/)
 www.youtube.com###dismissible:has-text(/Under The Influence/)
 www.youtube.com###dismissible:has-text(/SwoleBenji/)
@@ -20,3 +20,4 @@ www.youtube.com###dismissible:has-text(/BadBoyGaming/)
 www.youtube.com###dismissible:has-text(/G.O.T Games/)
 www.youtube.com###dismissible:has-text(/ExoticBankai Reaction/)
 www.youtube.com###dismissible:has-text(/Jayce The Hooman/)
+www.youtube.com###dismissible:has-text(/RCgames/)
