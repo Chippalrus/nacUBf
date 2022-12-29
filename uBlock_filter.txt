@@ -56,6 +56,7 @@ $removeparam=qu,domain=amazon.*
 $removeparam=refinements,domain=amazon.*
 $removeparam=rps,domain=amazon.*
 ! Socials
+www.twitch.tv##button:has-text(/React/)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
 twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
@@ -67,14 +68,14 @@ twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.
 twitter.com##.r-6416eg.r-o7ynqc.r-i023vh.r-1qhn6m8.r-1ny4l3l.r-s8bhmr.r-1777fci.r-1h3ijdo.r-16y2uox.r-eqz5dr.r-6koalj.r-1loqt21.r-1awozwy.css-1dbjc4n.css-18t94o4.css-4rbku5:has-text(/Entertainment/)
 twitter.com##.r-1ny4l3l.r-1adg3ll.r-qklmqi.r-1igl3o0.css-1dbjc4n:has-text(/follows/)
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-14wv3jr:has-text(/Who to follow/)
+twitter.com##[data-testid="tweet"]:has-text(/follow/)
 twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text(/World Cup/)
 twitter.com##a[href="/explore/tabs/sports_unified"]
 twitter.com##a[href="/explore/tabs/entertainment_unified"]
-twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/liked/)
 twitter.com##div > div > aside[aria-label="Who to follow"]
+twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/liked/)
 twitter.com##[aria-label*="View Tweet analytics"]
 twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ␣/)
-www.instagram.com##._aa6g
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
 www.flickr.com##.feed-rail-content-container
@@ -122,11 +123,9 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
 www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
+##ytd-thumbnail-overlay-toggle-button-renderer
 ! Other websites cosmetic changes
-keepass.info###consent_dlg
-keepass.info###consent_c
-warframe.fandom.com##.discord-module.rail-module
-warframe.fandom.com##.WikiaRail.right-rail-wrapper
 en.gw2skills.net###overlaymenu_opened
 en.gw2skills.net##.banners
 en.gw2skills.net##.footer
@@ -139,6 +138,10 @@ en.gw2skills.net##.quicklinks
 en.gw2skills.net##.xpbar
 en.gw2skills.net##.header
 en.gw2skills.net##.mw-overlay
+warframe.fandom.com##.discord-module.rail-module
+warframe.fandom.com##.WikiaRail.right-rail-wrapper
+keepass.info###consent_dlg
+keepass.info###consent_c
 literotica.com###udlsorix
 literotica.com###lbvytyn
 literotica.com##.SAAWidget__container
@@ -165,5 +168,3 @@ http://cloud.gw2skills.net/img/main/topright.jpg
 http://cloud.gw2skills.net/img/main/xpbar.png
 ||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
 ##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
-||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
-##ytd-thumbnail-overlay-toggle-button-renderer
