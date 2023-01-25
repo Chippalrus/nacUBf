@@ -1,4 +1,4 @@
-! Removes specific Channels from Search results
+! Removes specific channels from Search results "react content"
 www.youtube.com###dismissible:has-text(/APENLIVE/)
 www.youtube.com###dismissible:has-text(/Under The Influence/)
 www.youtube.com###dismissible:has-text(/SwoleBenji/)
@@ -25,3 +25,4 @@ www.youtube.com###dismissible:has-text(/Makoto\'s World/)
 www.youtube.com###dismissible:has-text(/Koefficient/)
 www.youtube.com###dismissible:has-text(/Zehnpie/)
 www.youtube.com###dismissible:has-text(/als Personal Development & Relax Music/)
+www.youtube.com###dismissible:has-text(/Christian Justo Vlogs/)
