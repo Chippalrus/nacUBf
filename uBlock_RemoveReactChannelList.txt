@@ -2,6 +2,7 @@
 ! Updated manually whenever they show up in my searches
 www.youtube.com###dismissible:has(#text:has-text(/React/))
 www.youtube.com###dismissible:has(#text:has-text(/Reacts/))
+www.youtube.com###dismissible:has(#text:has-text(/REACTS/)
 www.youtube.com###dismissible:has(#text:has-text(/react/))
 www.youtube.com###dismissible:has(#text:has-text(/reacts/))
 www.youtube.com###dismissible:has(#text:has-text(/APENLIVE/))
@@ -40,3 +41,4 @@ www.youtube.com###dismissible:has(#text:has-text(/31\.tv/))
 www.youtube.com###dismissible:has(#text:has-text(/GardenRyb/))
 www.youtube.com###dismissible:has(#text:has-text(/Shalimar Mona/))
 www.youtube.com###dismissible:has(#text:has-text(/NoukonNeko/))
+www.youtube.com###dismissible:has(#text:has-text(/Spywi Music/))
