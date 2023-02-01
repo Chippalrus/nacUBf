@@ -1,5 +1,14 @@
 ! When I search I do not want to see react content so this removes specific channels from Search results
 ! Updated manually whenever they show up in my searches
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/React/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reacts/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/REACTS/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/react/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/reacts/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reaction/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reactions/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/REACTION/)))
+www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/REACTIONS/)))
 www.youtube.com###dismissible:has(#text:has-text(/React/))
 www.youtube.com###dismissible:has(#text:has-text(/Reacts/))
 www.youtube.com###dismissible:has(#text:has-text(/REACTS/))
