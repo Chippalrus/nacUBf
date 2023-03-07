@@ -67,3 +67,7 @@ www.youtube.com###dismissible:has(#text:has-text(/ItsBrookesAesthetic/))
 www.youtube.com###dismissible:has(#text:has-text(/Rhodes To Kpop/))
 www.youtube.com###dismissible:has(#text:has-text(/Efeito Casal/))
 www.youtube.com###dismissible:has(#text:has-text(/Weeb Club/))
+! Additional search filters by channel
+www.youtube.com###dismissible:has(#text:has-text(/FalseEyeD/))
+www.youtube.com###dismissible:has(#text:has-text(/Khyo/))
+www.youtube.com###dismissible:has(#text:has-text(/BeelzFlyLord/))
