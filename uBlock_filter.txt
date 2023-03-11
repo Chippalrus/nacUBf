@@ -80,7 +80,7 @@ twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(3):has-text
 twitter.com##a[href="/explore/tabs/sports_unified"]
 twitter.com##a[href="/explore/tabs/entertainment_unified"]
 twitter.com##div > div > aside[aria-label="Who to follow"]
-twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/liked/)
+
 twitter.com##[aria-label*="View Tweet analytics"]
 twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ␣/)
 twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
