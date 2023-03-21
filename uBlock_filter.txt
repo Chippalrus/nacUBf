@@ -82,7 +82,7 @@ twitter.com##a[href="/explore/tabs/entertainment_unified"]
 twitter.com##div > div > aside[aria-label="Who to follow"]
 twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
 twitter.com##[aria-label*="View Tweet analytics"]
-twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ␣/)
+twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ㆍ/)
 twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
