@@ -15,6 +15,7 @@ www.youtube.com##.ytp-ce-covering-image
 www.youtube.com##.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.ytp-ce-playlist.ytp-ce-element
+www.youtube.com##.autonav-endscreen.ytp-player-content.html5-endscreen
 ! Ebay
 bulksell.ebay.ca###Facebook
 bulksell.ebay.ca###Twitter
