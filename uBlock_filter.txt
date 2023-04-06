@@ -4,7 +4,7 @@ youtube.com##ytd-browse[page-subtype="home"]
 www.youtube.com###header > .ytd-account-section-list-renderer.style-scope
 www.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
 studio.youtube.com##tp-yt-paper-item-body.ytd-account-item-renderer.style-scope:has-text(/No subscribers/)
-
+youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/No channel/)
 youtube.com###contents > .ytd-account-section-list-renderer.style-scope:has-text(/blank/)
 youtube.com##.ytd-account-section-list-renderer.style-scope > .ytd-account-item-section-renderer.style-scope:has-text(/@gmail.com/)
 youtube.com###header > .ytd-account-section-list-renderer.style-scope:has-text(/@gmail.com/)
