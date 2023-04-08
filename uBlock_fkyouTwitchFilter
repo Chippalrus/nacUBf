@@ -13,7 +13,6 @@ www.twitch.tv##div.side-nav-section[aria-label="Popular Channels"]
 www.twitch.tv##div.side-nav-section[aria-label="Viewers Also Watch"]
 www.twitch.tv##div.side-nav-section[aria-label*="Viewers Also Watch"]
 www.twitch.tv##div.side-nav-section[aria-label="Similar Channels"]
-www.twitch.tv##.root-scrollable:has-text(/CookSux/)
 www.twitch.tv##.tw-md-flex.tw-hide.top-nav__nav-link.tw-interactive
 www.twitch.tv##.tw-sm-flex.tw-hide > .top-nav__nav-link.tw-interactive
 www.twitch.tv##a.tw-interactive.top-nav__nav-link:nth-of-type(1)
