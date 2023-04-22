@@ -66,6 +66,7 @@ $removeparam=rps,domain=amazon.*
 www.twitch.tv##button:has-text(/React/)
 www.twitch.tv##.find-me:has-text(/Recommended channels/)
 www.twitch.tv##section#following-page-main-content > [class^="Layout-sc-"] > [class^="ScTower-sc-"]
+! Twitter, Blocks turkey man's stupid changes.
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
 twitter.com##.r-1udh08x.r-1bro5k0.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n
 twitter.com##.r-1udh08x.r-1ifxtd0.r-1yadl64.r-1phboty.r-1867qdf.r-1kqtdi0.r-1niwhzg.css-1dbjc4n
@@ -84,6 +85,7 @@ twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
 twitter.com##[aria-label*="View Tweet analytics"]
 twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ㆍ/)
 twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
+twitter.com##[href="/i/verified-orgs-signup"]
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
 www.flickr.com##.feed-rail-content-container
