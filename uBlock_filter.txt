@@ -75,6 +75,7 @@ $removeparam=rps,domain=amazon.*
 ! Socials
 www.twitch.tv##button:has-text(/React/)
 www.twitch.tv##.find-me:has-text(/Recommended channels/)
+www.twitch.tv##[aria-label="Recommended Channels"]
 www.twitch.tv##section#following-page-main-content > [class^="Layout-sc-"] > [class^="ScTower-sc-"]
 ! Twitter, Blocks turkey man's stupid changes.
 twitter.com##[href="/i/verified-orgs-signup"]
