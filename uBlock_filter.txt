@@ -208,3 +208,4 @@ http://cloud.gw2skills.net/img/main/topright.jpg
 http://cloud.gw2skills.net/img/main/xpbar.png
 ||cdn.sstatic.net/Sites/askubuntu/img/site-background-image.png?v=29bccd27864c$image
 ##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+www.reddit.com##.premium-banner
