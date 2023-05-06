@@ -72,12 +72,6 @@ $removeparam=ats,domain=amazon.*
 $removeparam=qu,domain=amazon.*
 $removeparam=refinements,domain=amazon.*
 $removeparam=rps,domain=amazon.*
-! Socials
-www.twitch.tv##button:has-text(/React/)
-www.twitch.tv##.find-me:has-text(/Recommended channels/)
-www.twitch.tv##[aria-label="Recommended Channels"]
-www.twitch.tv##[aria-label*="Viewers Also Watch"]
-www.twitch.tv##section#following-page-main-content > [class^="Layout-sc-"] > [class^="ScTower-sc-"]
 ! Twitter, Blocks turkey man's stupid changes.
 twitter.com##[href="/i/verified-orgs-signup"]
 twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-k0dy70.r-1ysxnx4.css-1dbjc4n:nth-of-type(3)
