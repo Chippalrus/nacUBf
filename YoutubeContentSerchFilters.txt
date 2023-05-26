@@ -1,4 +1,4 @@
-! Removes topics of particular
+! Manually updated, Stuff I don't want to see when I search on youtube
 www.reddit.com##.link:has-text(/TheLazyPeon/i)
 www.youtube.com###content-section:has-text(/TheLazyPeon/i)
 www.youtube.com##ytd-radio-renderer:has-text(/TheLazyPeon/i)
