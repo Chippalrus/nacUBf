@@ -1,6 +1,6 @@
 ! Removes FleshTuber misuse of VTuber tag on twitch, manually updated
 www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/joeykaotyk/i)
-www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/xqcow/i)
+www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/xqc/i)
 www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/mizkif/i)
 www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/lacari/i)
 www.twitch.tv##.tw-tower > [class*="Layout-sc-"]:has-text(/amouranth/i)
