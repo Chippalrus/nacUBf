@@ -1,1 +1,1 @@
-My uBlock filters, includes Youtube / Twitch annoyances, including VTuber tag misuse
+My uBlock filters, includes Youtube / Twitch search annoyances, including VTuber tag misuse 
