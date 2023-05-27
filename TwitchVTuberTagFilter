@@ -12,3 +12,4 @@ www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-towe
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/graycen/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/delt4forc3/i))
 www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/franzj/i))
+www.twitch.tv##:has([data-a-target*="tags-filter-"]:has-text(/VTuber/i)).tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/bean/i))
