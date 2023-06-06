@@ -102,6 +102,7 @@ twitter.com##.r-lrsllp.r-lrvibr.r-1plcrui.r-bnwqim.r-dnmrzs.r-8kz0gk.r-16y2uox.r
 twitter.com##[aria-label="Twitter Blue"]
 twitter.com##[role="presentation"]:has-text(/For you/)
 twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com##[aria-label="Verified"]
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
 www.flickr.com##.feed-rail-content-container
