@@ -16,7 +16,7 @@ twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: 
 twitter.com##[aria-label$="’s Tweets"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(visibility: hidden !important)
 ! [User] follows / liked / retweeted
 twitter.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article):style(visibility: hidden !important)
-twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article):style(visibility: hidden !important)
+twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article):style(border:blue 5px dotted !important)
 twitter.com##:is([aria-label="Timeline: Your Home Timeline"], [aria-label$="’s Tweets"]) article>div:first-child>div:first-child>div:first-child>div:first-child [d^="M4.75 3.79l4.603"]:upward(article):not(:has([data-testid="socialContext"]:has-text(/^You/))):style(visibility: hidden !important)
 ! [User] recieved a reply
 twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/)):style(border: lightgreen 5px dotted !important)
