@@ -1,21 +1,26 @@
 ! Twitter, Blocks turkey man's stupid changes.
+twitter.com##[aria-label*="View Tweet analytics"]
+twitter.com##[aria-label="Twitter Blue"]
+twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com##[aria-label="Verified"]
 twitter.com##[href="/i/verified-orgs-signup"]
 twitter.com##a[href="/explore/tabs/sports_unified"]
 twitter.com##a[href="/explore/tabs/entertainment_unified"]
-twitter.com##div > div > aside[aria-label="Who to follow"]
-twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
-twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/liked/)
-twitter.com##[aria-label*="View Tweet analytics"]
-twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
-twitter.com##[href="/i/verified-orgs-signup"]
-twitter.com##[aria-label*="View Tweet analytics"]
-twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
 twitter.com##.r-6416eg[class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="css-"][class*="css-"][class*="css-"]:has-text(/Want to read the article first?/)
-twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
-twitter.com##.r-lrsllp.r-lrvibr.r-1plcrui.r-bnwqim.r-dnmrzs.r-8kz0gk.r-16y2uox.r-yyyyoo.r-4qtqp9.r-13v1u17 > g > path
-twitter.com##[aria-label="Twitter Blue"]
-twitter.com##[role="presentation"]:has-text(/For you/)
-twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com##[aria-label="Verified"]
+twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(border: white 5px dotted !important)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+twitter.com##article div>svg>g>[d^="M17.863 13.44c1.477"]:upward(article):style(border: cyan dotted 5px !important)
+twitter.com##article>div:first-child>div:first-child>div:first-child>div:first-child [d$="4.17-.514 6.67z"]:upward(article):style(border:blue 5px dotted !important)
+twitter.com##:is([aria-label="Timeline: Your Home Timeline"], [aria-label$="’s Tweets"]) article>div:first-child>div:first-child>div:first-child>div:first-child [d^="M4.75 3.79l4.603"]:upward(article):not(:has([data-testid="socialContext"]:has-text(/^You/))):style(border: yellow dotted 5px !important)
+twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/)):style(border: lightgreen 5px dotted !important)
+twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/reply$/))+div:style(border: lightgreen 5px dotted !important)
+twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replies$/)):style(border: green 5px dotted !important)
+twitter.com##article>div:first-child:not(:last-child):upward([style*="position: absolute"]):style(border: 5px dotted orange !important)
+twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replied$/)):style(border: violet 5px dotted !important)
+twitter.com##article [d$="183-3.51-8.183-8.01z"]:upward([style*="position: absolute"]):has([data-testid="socialContext"]:has-text(/replied$/))+div:style(border: violet 5px dotted !important)
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
+twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
+twitter.com##[aria-label="who to follow" i]:upward(1)
+twitter.com###layers>div:last-of-type:has-text(Switch to the app)
+twitter.com##[role="presentation"]:has-text(/For you/)
