@@ -9,7 +9,7 @@ twitter.com##[role="presentation"]:has-text(/For you/)
 ! Follow/Recommended Topic | "[Name of Topic] See more"
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(visibility: hidden !important)
 ! You might like (Suggested tweet)
-twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(border: white 3px dashed !important)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(visibility: hidden !important)
 ! My Timeline - no inserted sections (Who to follow/Topics to follow, etc.)
 twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(visibility: hidden !important)
 ! Other Timelines - no inserted sections (Who to follow/Topics to follow, etc.)
