@@ -8,6 +8,7 @@ www.youtube.com##.ytp-ce-video.ytp-ce-element
 www.youtube.com##.ytp-ce-channel.ytp-ce-element
 www.youtube.com##.ytp-ce-playlist.ytp-ce-element
 www.youtube.com##.autonav-endscreen.ytp-player-content.html5-endscreen
+www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer:has-text(Shorts)
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-covering-overlay
@@ -18,29 +19,29 @@ www.youtube.com##.ytp-ce-playlist.ytp-ce-element
 www.youtube.com##.autonav-endscreen.ytp-player-content.html5-endscreen
 www.youtube.com##.ytp-ce-size-1280
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope:has-text(/People also watched/)
-! ???
-studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
-www.youtube.com##.ytp-paid-content-overlay
-www.youtube.com##.ytp-ce-expanding-image
-www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
-www.youtube.com##.ytp-show-tiles.videowall-endscreen.ytp-player-content.html5-endscreen
-www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
+! Navigation
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Shorts/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/YouTube Premium/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Sport/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Fashion & beauty/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
-www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
+! ???
+studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
+www.youtube.com##.ytp-paid-content-overlay
+www.youtube.com##.ytp-ce-expanding-image
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope:has-text(/People also watched/)
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope:nth-of-type(1)
 www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element > .ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-size-1280.ytp-ce-bottom-right-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-bottom-left-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-size-1920.ytp-ce-bottom-left-quad.ytp-ce-element-show.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-right-quad.ytp-ce-channel-this.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-channel-that.ytp-ce-channel.ytp-ce-element
+www.youtube.com##.ytp-ce-element-show.ytp-ce-size-1280.ytp-ce-top-left-quad.ytp-ce-website.ytp-ce-element
 ||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
 ##ytd-thumbnail-overlay-toggle-button-renderer
