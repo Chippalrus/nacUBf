@@ -1,2 +1,22 @@
+! Twitter, Blocks turkey man's stupid changes.
+twitter.com##[href="/i/verified-orgs-signup"]
+twitter.com##a[href="/explore/tabs/sports_unified"]
+twitter.com##a[href="/explore/tabs/entertainment_unified"]
+twitter.com##div > div > aside[aria-label="Who to follow"]
+twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
+twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/liked/)
+twitter.com##[aria-label*="View Tweet analytics"]
+twitter.com##[class*="r-"].css-1dbjc4n > div.r-6416eg.r-o7ynqc.r-1f1sjgu.r-ymttw5.r-1ny4l3l.css-1dbjc4n.css-18t94o4 > [class*="r-"][class*="css-"]:has-text(/ ㆍ/)
+twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
+twitter.com##[href="/i/verified-orgs-signup"]
+twitter.com##[aria-label*="View Tweet analytics"]
+twitter.com##[tabindex="0"][data-testid="tweet"]:has-text(/You might like/)
+twitter.com##.r-6416eg[class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="css-"][class*="css-"][class*="css-"]:has-text(/Want to read the article first?/)
+twitter.com##article[tabindex="0"][data-testid="tweet"]:has-text(/ liked/)
+twitter.com##.r-lrsllp.r-lrvibr.r-1plcrui.r-bnwqim.r-dnmrzs.r-8kz0gk.r-16y2uox.r-yyyyoo.r-4qtqp9.r-13v1u17 > g > path
+twitter.com##[aria-label="Twitter Blue"]
+twitter.com##[role="presentation"]:has-text(/For you/)
+twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com##[aria-label="Verified"]
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
