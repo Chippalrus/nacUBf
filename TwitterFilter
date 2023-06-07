@@ -1,12 +1,4 @@
 ! Twitter, Blocks turkey man's stupid changes.
-twitter.com##[aria-label*="View Tweet analytics"]
-twitter.com##[aria-label="Twitter Blue"]
-twitter.com##div[aria-label="Timeline: Trending now"]
-twitter.com##[aria-label="Verified"]
-twitter.com##[href="/i/verified-orgs-signup"]
-twitter.com##a[href="/explore/tabs/sports_unified"]
-twitter.com##a[href="/explore/tabs/entertainment_unified"]
-twitter.com##.r-6416eg[class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="css-"][class*="css-"][class*="css-"]:has-text(/Want to read the article first?/)
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label="who to follow" i]:upward(1)
@@ -40,3 +32,12 @@ twitter.com##[src$="/verified_stroke_1.png"]:upward(div:not(:empty)+div:last-of-
 ! Discover more / More Tweets - Conversation view suggestions
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])
 twitter.com##[aria-label="Timeline: Conversation"] [data-testid="cellInnerDiv"] h2:has-text(/^(Discover more|More Tweets)$/):upward([data-testid="cellInnerDiv"])~div
+! ???
+twitter.com##[aria-label="Twitter Blue"]
+twitter.com##[aria-label="Verified"]
+twitter.com##[aria-label*="View Tweet analytics"]
+twitter.com##div[aria-label="Timeline: Trending now"]
+twitter.com##[href="/i/verified-orgs-signup"]
+twitter.com##a[href="/explore/tabs/sports_unified"]
+twitter.com##a[href="/explore/tabs/entertainment_unified"]
+twitter.com##.r-6416eg[class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="r-"][class*="css-"][class*="css-"][class*="css-"]:has-text(/Want to read the article first?/)
