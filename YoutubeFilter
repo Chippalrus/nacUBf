@@ -31,7 +31,6 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
 ! ???
-www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
 www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
 studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
 ||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
