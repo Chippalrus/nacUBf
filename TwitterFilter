@@ -8,6 +8,7 @@ twitter.com##html:style(overflow: auto !important;)
 twitter.com##[role="presentation"]:has-text(/For you/)
 ! Follow/Recommended Topic | "[Name of Topic] See more"
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(visibility: hidden !important)
+twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(height:0px !important)
 ! You might like (Suggested tweet)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(visibility: hidden !important)
 ! My Timeline - no inserted sections (Who to follow/Topics to follow, etc.)
