@@ -11,6 +11,7 @@ twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recomme
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(height:0px !important)
 ! You might like (Suggested tweet)
 twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(visibility: hidden !important)
+twitter.com##article [d$="2.66 6 1H5z"]:upward(article):style(height:0px !important)
 ! My Timeline - no inserted sections (Who to follow/Topics to follow, etc.)
 twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(visibility: hidden !important)
 twitter.com##[aria-label="Timeline: Your Home Timeline"] div[style^="transform: translateY"][style*="position: absolute;"]:not(:first-child:has-text(/^Show \d\d? Tweets?$/)):not(:has(article, [href^="/i/status/"], [role="progressbar"])):style(height:0px !important)
