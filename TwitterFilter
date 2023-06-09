@@ -1,4 +1,5 @@
 ! Twitter, Blocks turkey man's stupid changes.
+twitter.com##[aria-label="Get Verified"]:upward(1)
 twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward(section)
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label="who to follow" i]:upward(1)
