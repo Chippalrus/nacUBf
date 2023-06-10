@@ -51,3 +51,7 @@ www.twitch.tv##[aria-label="Recommended Channels"]
 www.twitch.tv##[aria-label*="Viewers Also Watch"]
 www.twitch.tv##section#following-page-main-content > [class^="Layout-sc-"] > [class^="ScTower-sc-"]
 www.twitch.tv##button[class*=ScCoreButton-sc-]:has-text(/React/)
+www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="video-player__video-container"] > [class*="video-ref"]
+www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="video-player__video-container"]
+www.twitch.tv##[data-a-player-type="channel_switcher"]
+www.twitch.tv##[class*="switcher-channel-info"]
