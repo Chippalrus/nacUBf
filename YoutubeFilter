@@ -1,6 +1,6 @@
 ! Disables Youtube Home Page
 youtube.com##ytd-browse[page-subtype="home"]
-! Removes End of video cards
+! Removes annotations/End of video cards
 www.youtube.com##.ytp-ce-element.ytp-ce-element-show
 www.youtube.com##.ytp-ce-element-shadow
 www.youtube.com##.ytp-ce-covering-overlay
