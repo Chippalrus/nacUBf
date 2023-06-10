@@ -41,10 +41,10 @@ www.youtube.com###home-page-skeleton .channel-avatar
 www.youtube.com###endorsement.ytd-video-preview
 www.youtube.com##.ytp-inline-preview-mode .ytp-paid-content-overlay
 www.youtube.com##.skeleton-bg-color.ytd-ghost-grid-renderer
-www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
-www.youtube.com##[style="--ytd-rich-shelf-items-count: 4;"]:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
-www.youtube.com##[style="--ytd-rich-shelf-items-count: 5;"]:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
-www.youtube.com##ytd-rich-item-renderer:nth-child(4):has(#video-title.ytd-rich-grid-media)[hidden], ytd-rich-item-renderer:nth-child(5):has(#video-title.ytd-rich-grid-media)[hidden], .ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
+www.youtube.com##ytd-rich-item-renderer:upward(ytd-ad-slot-renderer)
+www.youtube.com##[style="--ytd-rich-shelf-items-count: 4;"]:upward(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
+www.youtube.com##[style="--ytd-rich-shelf-items-count: 5;"]:upward(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
+www.youtube.com##ytd-rich-item-renderer:nth-child(4):upward(#video-title.ytd-rich-grid-media)[hidden], ytd-rich-item-renderer:nth-child(5):upward(#video-title.ytd-rich-grid-media)[hidden], .ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
 www.youtube.com##.ytp-inline-preview-mode button.ytp-subtitles-button.ytp-button::after:style(margin: 0 8px !important)
 www.youtube.com###video-title.ytd-rich-grid-media:style(font-size: 1.4rem !important)
 www.youtube.com##.ytd-rich-grid-media ytd-video-meta-block[rich-meta] #byline-container.ytd-video-meta-block, .ytd-rich-grid-media ytd-video-meta-block[rich-meta] #metadata-line.ytd-video-meta-block:style(font-size: 1.2rem !important)
@@ -62,14 +62,14 @@ www.youtube.com##[page-subtype="home"] #dismissible.ytd-rich-shelf-renderer, [pa
 www.youtube.com##[page-subtype="home"] ytd-rich-shelf-renderer, [page-subtype="sports"] ytd-rich-shelf-renderer:style(border: none !important)
 www.youtube.com##ytd-rich-grid-media[mini-mode], ytd-rich-section-renderer[mini-mode] #content.ytd-rich-section-renderer:style(max-width: none !important)
 www.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-item-margin: 4px; !important)
-www.youtube.com###contents.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media):style(--ytd-rich-grid-item-margin: 4px; !important)
+www.youtube.com###contents.ytd-rich-shelf-renderer:upward(#video-title.ytd-rich-grid-media):style(--ytd-rich-grid-item-margin: 4px; !important)
 www.youtube.com##ytd-thumbnail.ytd-rich-grid-media::before, ytd-playlist-thumbnail.ytd-rich-grid-media::before:style(background: none !important)
 ! Hides irrelevants search results
 www.youtube.com##[is-search] ytd-shelf-renderer.ytd-item-section-renderer:not(ytd-channel-renderer + ytd-shelf-renderer)
 www.youtube.com##[is-search] ytd-horizontal-card-list-renderer.ytd-item-section-renderer:not(:first-child)
 www.youtube.com##[is-search] ytd-exploratory-results-renderer.ytd-item-section-renderer
 ! Hides YouTube mixes
-www.youtube.com##.ytd-rich-item-renderer:has([href*="start_radio=1"])
+www.youtube.com##.ytd-rich-item-renderer:upward([href*="start_radio=1"])
 www.youtube.com##ytd-compact-radio-renderer
 www.youtube.com##ytd-radio-renderer
 ! Always expanded video description
