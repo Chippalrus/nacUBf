@@ -45,12 +45,11 @@ www.twitch.tv##div[data-a-target="ax-overlay"]
 www.twitch.tv##.smarter-sort-callout
 www.twitch.tv##div[data-test-selector="sad-overlay"]
 ||vod-secure.twitch.tv/_404/404_processing_320x180.png$image
-www.twitch.tv##button:has-text(/React/)
+www.twitch.tv##button[class*=ScCoreButton-sc-]:has-text(/React/)
 www.twitch.tv##.find-me:has-text(/Recommended channels/)
 www.twitch.tv##[aria-label="Recommended Channels"]
 www.twitch.tv##[aria-label*="Viewers Also Watch"]
 www.twitch.tv##section#following-page-main-content > [class^="Layout-sc-"] > [class^="ScTower-sc-"]
-www.twitch.tv##button[class*=ScCoreButton-sc-]:has-text(/React/)
 www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="video-player__video-container"] > [class*="video-ref"]
 www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="video-player__video-container"]
 www.twitch.tv##[data-a-player-type="channel_switcher"]
