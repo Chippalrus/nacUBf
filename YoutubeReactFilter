@@ -1,8 +1,10 @@
 ! Same as Search filter but for react content
+! Playlists
 www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/React/i)))
 www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reacts/i)))
 www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reaction/i)))
 www.youtube.com##ytd-playlist-renderer:has(#metadata:has(#text:has-text(/Reactions/i))
+! Channels
 www.youtube.com###dismissible:has(#text:has-text(/React/i))
 www.youtube.com###dismissible:has(#text:has-text(/Reacts/i))
 www.youtube.com###dismissible:has(#text:has-text(/Reaction/i))
