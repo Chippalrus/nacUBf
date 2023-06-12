@@ -1,16 +1,4 @@
-! Manually updated, Stuff I don't want to see when I search on youtube
-www.reddit.com##.link:has-text(/TheLazyPeon/i)
-www.youtube.com###content-section:has-text(/TheLazyPeon/i)
-www.youtube.com##ytd-radio-renderer:has-text(/TheLazyPeon/i)
-www.youtube.com##ytd-video-renderer:has-text(/TheLazyPeon/i)
-www.youtube.com##ytd-shelf-renderer:has-text(/TheLazyPeon/i)
-www.youtube.com##ytd-playlist-renderer:has-text(/LazyPeon/i)
-www.youtube.com##ytd-playlist-renderer:has-text(/Lazy Peon/i)
-www.youtube.com###dismissible:has-text(/LazyPeon/i)
-www.youtube.com###dismissible:has-text(/The Lazy Peon/i)
-www.youtube.com###dismissible:has-text(/Lazy Peon/i)
-www.youtube.com###dismissible:has-text(/lazypeon/i)
-! Additional search filters by channel
+! Drama channels
 www.youtube.com###dismissible:has(#text:has-text(/FalseEyeD/i))
 www.youtube.com###dismissible:has(#text:has-text(/Khyo/i))
 www.youtube.com###dismissible:has(#text:has-text(/BeelzFlyLord/i))
@@ -20,3 +8,9 @@ www.youtube.com###dismissible:has(#text:has-text(/Micah Curtis/i))
 www.youtube.com###dismissible:has(#text:has-text(/Kuri Rinji Ch.【VTUBER CRINGE】/i))
 www.youtube.com###dismissible:has(#text:has-text(/Zcalyps0/i))
 www.youtube.com###dismissible:has(#text:has-text(/Rev says desu/i))
+www.youtube.com###dismissible:has(#text:has-text(/dramaalert/i))
+! Other
+www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
+! Religion BS
+www.youtube.com###dismissible:has(#text:has-text(/Vlad Savchuk/i))
+
