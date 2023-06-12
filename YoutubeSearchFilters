@@ -13,3 +13,4 @@ www.youtube.com###dismissible:has(#text:has-text(/dramaalert/i))
 www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
 ! Religion BS
 www.youtube.com###dismissible:has(#text:has-text(/Vlad Savchuk/i))
+www.youtube.com###dismissible:has(#text:has-text(/8BE/i))
