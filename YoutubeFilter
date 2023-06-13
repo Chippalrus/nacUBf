@@ -76,3 +76,5 @@ www.youtube.com##ytd-video-primary-info-renderer:style(padding: 2px 0 0 !importa
 www.youtube.com##ytd-video-secondary-info-renderer:style(border: none !important; padding: 0 !important)
 www.youtube.com##.title.ytd-video-primary-info-renderer:style(margin: 0 0 8px !important)
 www.youtube.com##.super-title.ytd-video-primary-info-renderer:style(color: var(--yt-spec-text-secondary) !important)
+! Shorts
+www.youtube.com##ytd-thumbnail #thumbnail.ytd-thumbnail[href*="/shorts/"]:upward(ytd-video-renderer)
