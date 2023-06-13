@@ -1,3 +1,5 @@
+! Source: https://www.reddit.com/r/uBlockOrigin/comments/145hz4p/filters_for_youtube_to_fix_the_3_videos_per_row/
+!
 ! 3 videos per row fix
 www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 5)
 www.youtube.com###endorsement.ytd-video-preview
