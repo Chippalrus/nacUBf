@@ -62,6 +62,8 @@ www.youtube.com##ytd-thumbnail.ytd-rich-grid-media::before, ytd-playlist-thumbna
 www.youtube.com##[is-search] ytd-shelf-renderer.ytd-item-section-renderer:not(ytd-channel-renderer + ytd-shelf-renderer)
 www.youtube.com##[is-search] ytd-horizontal-card-list-renderer.ytd-item-section-renderer:not(:first-child)
 www.youtube.com##[is-search] ytd-exploratory-results-renderer.ytd-item-section-renderer
+! Hides Shorts from search results
+www.youtube.com##ytd-thumbnail #thumbnail.ytd-thumbnail[href*="/shorts/"]:upward(ytd-video-renderer)
 ! Hides YouTube mixes
 www.youtube.com##.ytd-rich-item-renderer:upward([href*="start_radio=1"])
 www.youtube.com##ytd-compact-radio-renderer
@@ -76,5 +78,3 @@ www.youtube.com##ytd-video-primary-info-renderer:style(padding: 2px 0 0 !importa
 www.youtube.com##ytd-video-secondary-info-renderer:style(border: none !important; padding: 0 !important)
 www.youtube.com##.title.ytd-video-primary-info-renderer:style(margin: 0 0 8px !important)
 www.youtube.com##.super-title.ytd-video-primary-info-renderer:style(color: var(--yt-spec-text-secondary) !important)
-! Shorts
-www.youtube.com##ytd-thumbnail #thumbnail.ytd-thumbnail[href*="/shorts/"]:upward(ytd-video-renderer)
