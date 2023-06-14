@@ -1,4 +1,5 @@
 ! Cosmetic/Simplify changes to Twitch website
+www.twitch.tv##button:has-text(/Get Ad-Free/i)
 www.twitch.tv##.extensions-dock-card
 www.twitch.tv##.side-nav__title:has-text(/For You/)
 www.twitch.tv##div.side-nav-section:has-text(/Similar Channels/)
