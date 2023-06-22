@@ -21,7 +21,7 @@ www.youtube.com###action-menu
 ! Navigation
 www.youtube.com##ytd-guide-section-renderer:has-text(/Youtube Kids/i)
 www.youtube.com##ytd-guide-section-renderer:has-text(/Explore/)
-www.youtube.com##ytd-item-section-renderer:has-text(/Recommended videos/)
+www.youtube.com##ytd-item-section-renderer:has-text(/Recommended videos/i)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Shorts/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/YouTube Premium/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Sport/)
@@ -29,8 +29,8 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
 ! ???
-www.youtube.com##ytd-item-section-renderer:has-text(/Recommended videos/)
-www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/)
+www.youtube.com##ytd-item-section-renderer:has-text(/Recommended videos/i)
+www.youtube.com##h3.ytd-guide-section-renderer.style-scope:has-text(/More from YouTube/i)
 studio.youtube.com##.ytcd-basic-item-large-image.style-scope.thumbnail
 ||yt3.ggpht.com/a/AATXAJytWhG2sBZ_LMKsOLgicaamXSXk2GDtZodhNEsI8g=s400-c-k-c0x00ffffff-no-rj$image
 ! === Below from (https://www.reddit.com/r/uBlockOrigin/comments/145hz4p/filters_for_youtube_to_fix_the_3_videos_per_row/) ===
