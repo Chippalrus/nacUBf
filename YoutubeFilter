@@ -31,29 +31,33 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-mini-guide-renderer
 youtube.com##ytd-page-manager:style(margin-left:0 !important)
 ! === Below from (https://www.reddit.com/r/uBlockOrigin/comments/145hz4p/filters_for_youtube_to_fix_the_3_videos_per_row/) ===
-! More videos per row
-www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 6 !important)
+! Hide profile pictures below video thumbnails on the homepage/subscriptions page
 www.youtube.com###avatar.ytd-rich-grid-media
 www.youtube.com###avatar-link.ytd-rich-grid-media
+www.youtube.com###home-page-skeleton .channel-avatar
 www.youtube.com###endorsement.ytd-video-preview
+! More videos per row
+www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 6 !important)
 www.youtube.com##.ytp-inline-preview-mode .ytp-paid-content-overlay
 www.youtube.com##.skeleton-bg-color.ytd-ghost-grid-renderer
 www.youtube.com##ytd-rich-item-renderer:upward(ytd-ad-slot-renderer)
-www.youtube.com##[style="--ytd-rich-shelf-items-count: 4;"]:upward(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
-www.youtube.com##[style="--ytd-rich-shelf-items-count: 5;"]:upward(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
-www.youtube.com##ytd-rich-item-renderer:nth-child(4):upward(#video-title.ytd-rich-grid-media)[hidden], ytd-rich-item-renderer:nth-child(5):upward(#video-title.ytd-rich-grid-media)[hidden], .ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
+www.youtube.com##[style="--ytd-rich-shelf-items-count: 4;"] #dismissible.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
+www.youtube.com##[style="--ytd-rich-shelf-items-count: 6;"] #dismissible.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
+www.youtube.com##.ytd-rich-grid-media ytd-video-meta-block[rich-meta] #byline-container.ytd-video-meta-block, .ytd-rich-grid-media ytd-video-meta-block[rich-meta] #metadata-line.ytd-video-meta-block:style(font-size: 1.2rem !important)
+www.youtube.com###video-title.ytd-rich-grid-media:upward(ytd-rich-item-renderer:nth-child(4)[hidden]):style(display: block !important)
+www.youtube.com###video-title.ytd-rich-grid-media:upward(ytd-rich-item-renderer:nth-child(5)[hidden]):style(display: block !important)
+www.youtube.com##.ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
 www.youtube.com##.ytp-inline-preview-mode button.ytp-subtitles-button.ytp-button::after:style(margin: 0 8px !important)
 www.youtube.com###video-title.ytd-rich-grid-media:style(font-size: 1.4rem !important)
 www.youtube.com##ytd-notification-multi-action-renderer[shelf-dismissal]:style(margin-top: 12px !important)
 www.youtube.com###home-page-skeleton .rich-grid-media-skeleton:style(max-width: calc(100%/5 - 8px) !important; min-width: 0px !important; margin: 0 4px 0 4px !important)
 www.youtube.com##ytd-rich-item-renderer:style(margin-bottom: 24px !important)
-www.youtube.com###contents > ytd-rich-grid-row, #contents > ytd-rich-grid-row > #contents, [page-subtype="sports"] #content.ytd-rich-section-renderer, [page-subtype="sports"] ytd-rich-section-renderer:style(display: contents !important)
 www.youtube.com##[page-subtype="subscriptions"] #content.ytd-rich-section-renderer:style(margin: 0 8px !important)
 www.youtube.com##ytd-rich-item-renderer[is-slim-grid]:last-of-type:style(margin-right: calc(var(--ytd-rich-grid-item-margin)/2) !important)
 www.youtube.com##ytd-rich-item-renderer[is-slim-grid]:first-of-type:style(margin-left: calc(var(--ytd-rich-grid-item-margin)/2) !important)
 www.youtube.com##ytd-rich-grid-media[mini-mode], ytd-rich-section-renderer[mini-mode] #content.ytd-rich-section-renderer:style(max-width: none !important)
 www.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-item-margin: 4px; !important)
-www.youtube.com###contents.ytd-rich-shelf-renderer:upward(#video-title.ytd-rich-grid-media):style(--ytd-rich-grid-item-margin: 4px; !important)
+www.youtube.com###video-title.ytd-rich-grid-media:upward(#contents.ytd-rich-shelf-renderer):style(--ytd-rich-grid-item-margin: 4px; !important)
 www.youtube.com##ytd-thumbnail.ytd-rich-grid-media::before, ytd-playlist-thumbnail.ytd-rich-grid-media::before:style(background: none !important)
 ! Hides irrelevants search results
 www.youtube.com##[is-search] ytd-shelf-renderer.ytd-item-section-renderer:not(ytd-channel-renderer + ytd-shelf-renderer)
