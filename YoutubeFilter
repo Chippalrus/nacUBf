@@ -28,7 +28,7 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Fashion & beauty/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Movies & shows/)
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
-www.youtube.com###endpoint.yt-simple-endpoint.ytd-guide-entry-renderer[title="Shorts"]
+www.youtube.com##ytd-mini-guide-renderer
 ! === Below from (https://www.reddit.com/r/uBlockOrigin/comments/145hz4p/filters_for_youtube_to_fix_the_3_videos_per_row/) ===
 ! More videos per row
 www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 8 !important)
