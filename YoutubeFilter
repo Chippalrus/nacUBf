@@ -63,13 +63,6 @@ www.youtube.com##ytd-thumbnail #thumbnail.ytd-thumbnail[href*="/shorts/"]:upward
 www.youtube.com##.ytd-rich-item-renderer:upward([href*="start_radio=1"])
 www.youtube.com##ytd-compact-radio-renderer
 www.youtube.com##ytd-radio-renderer
-! Always expanded video description
-www.youtube.com##ytd-watch-metadata, ytd-expander.ytd-video-secondary-info-renderer tp-yt-paper-button
-www.youtube.com###info-contents.ytd-watch-flexy[hidden], #meta-contents.ytd-watch-flexy[hidden], ytd-structured-description-content-renderer.ytd-video-secondary-info-renderer[hidden]:style(display: block !important)
-www.youtube.com##ytd-expander.ytd-video-secondary-info-renderer:style(margin: 0px !important)
-www.youtube.com##ytd-expander[collapsed] > #content.ytd-expander:style(max-height: none !important)
-www.youtube.com###description.ytd-video-secondary-info-renderer:style(max-width: none !important)
-www.youtube.com##ytd-video-primary-info-renderer:style(padding: 2px 0 0 !important; border: none !important)
-www.youtube.com##ytd-video-secondary-info-renderer:style(border: none !important; padding: 0 !important)
-www.youtube.com##.title.ytd-video-primary-info-renderer:style(margin: 0 0 8px !important)
-www.youtube.com##.super-title.ytd-video-primary-info-renderer:style(color: var(--yt-spec-text-secondary) !important)
+! Hides big blocky Channel Info
+www.youtube.com##[id="infocards-section"][class="style-scope ytd-video-description-infocards-section-renderer"]
+www.youtube.com##[id="items"][class="style-scope ytd-structured-description-content-renderer"]
