@@ -44,6 +44,7 @@ www.youtube.com##ytd-rich-item-renderer:upward(ytd-ad-slot-renderer)
 www.youtube.com##[style="--ytd-rich-shelf-items-count: 4;"] #dismissible.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
 www.youtube.com##[style="--ytd-rich-shelf-items-count: 6;"] #dismissible.ytd-rich-shelf-renderer:has(#video-title.ytd-rich-grid-media) #show-more-button .yt-spec-button-shape-next--mono.yt-spec-button-shape-next--text
 www.youtube.com##.ytd-rich-grid-media ytd-video-meta-block[rich-meta] #byline-container.ytd-video-meta-block, .ytd-rich-grid-media ytd-video-meta-block[rich-meta] #metadata-line.ytd-video-meta-block:style(font-size: 1.2rem !important)
+www.youtube.com###contents > ytd-rich-grid-row, #contents > ytd-rich-grid-row > #contents, [page-subtype="sports"] #content.ytd-rich-section-renderer, [page-subtype="sports"] ytd-rich-section-renderer:style(display: contents !important)
 www.youtube.com###video-title.ytd-rich-grid-media:upward(ytd-rich-item-renderer:nth-child(4)[hidden]):style(display: block !important)
 www.youtube.com###video-title.ytd-rich-grid-media:upward(ytd-rich-item-renderer:nth-child(5)[hidden]):style(display: block !important)
 www.youtube.com##.ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
