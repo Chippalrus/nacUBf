@@ -30,7 +30,7 @@ www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope
 www.youtube.com##ytd-guide-entry-renderer.ytd-guide-section-renderer.style-scope > .ytd-guide-entry-renderer.style-scope.yt-simple-endpoint:has-text(/Learning/)
 ! === Below from (https://www.reddit.com/r/uBlockOrigin/comments/145hz4p/filters_for_youtube_to_fix_the_3_videos_per_row/) ===
 ! More videos per row
-www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 7 !important)
+www.youtube.com##.ytd-rich-grid-renderer:style(--ytd-rich-grid-items-per-row: 6 !important)
 www.youtube.com###avatar.ytd-rich-grid-media
 www.youtube.com###avatar-link.ytd-rich-grid-media
 www.youtube.com###endorsement.ytd-video-preview
