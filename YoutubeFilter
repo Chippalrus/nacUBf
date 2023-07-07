@@ -53,10 +53,6 @@ youtube.com##ytd-page-manager:has([page-subtype="subscriptions"], [page-subtype=
 www.youtube.com##ytd-notification-multi-action-renderer[shelf-dismissal]:style(margin-top: 12px !important)
 www.youtube.com##.ytp-inline-preview-ui .ytp-subtitles-button, .ytp-inline-preview-ui .ytp-mute-button:style(display: block !important)
 www.youtube.com##.ytp-inline-preview-mode button.ytp-subtitles-button.ytp-button::after:style(margin: 0 8px !important)
-! Remove the label from the buttons Share, Download, Clip
-www.youtube.com##ytd-menu-renderer:not([condensed]) #top-level-buttons-computed ytd-button-renderer:nth-child(2) .yt-spec-button-shape-next--button-text-content, #flexible-item-buttons .yt-spec-button-shape-next__button-text-content
-www.youtube.com##ytd-menu-renderer:not([condensed]) #top-level-buttons-computed ytd-button-renderer:nth-child(2),  #flexible-item-buttons .yt-spec-button-shape-next.yt-spec-button-shape-next--tonal.yt-spec-button-shape-next--mono, #flexible-item-buttons .yt-spec-button-shape-next--disabled.yt-spec-button-shape-next--tonal:style(width: 36px !important; padding: 0 !important)
-www.youtube.com##ytd-menu-renderer:not([condensed]) #top-level-buttons-computed ytd-button-renderer:nth-child(2) .yt-spec-button-shape-next__icon, #flexible-item-buttons .yt-spec-button-shape-next__icon:style( margin: 0 !important)
 ! Hides irrelevants search results
 www.youtube.com##[is-search] ytd-shelf-renderer.ytd-item-section-renderer:not(ytd-channel-renderer + ytd-shelf-renderer)
 www.youtube.com##[is-search] ytd-horizontal-card-list-renderer.ytd-item-section-renderer:not(:first-child)
