@@ -54,8 +54,6 @@ www.youtube.com##ytd-rich-grid-media[mini-mode], ytd-rich-section-renderer[mini-
 www.youtube.com##ytd-rich-grid-row:style(--ytd-rich-grid-item-margin: 4px; !important)
 www.youtube.com###contents.ytd-rich-shelf-renderer:upward(#video-title.ytd-rich-grid-media):style(--ytd-rich-grid-item-margin: 4px; !important)
 www.youtube.com##ytd-thumbnail.ytd-rich-grid-media::before, ytd-playlist-thumbnail.ytd-rich-grid-media::before:style(background: none !important)
-! Auto-expand comments
-www.youtube.com###comment-content ytd-expander[should-use-number-of-lines][collapsed] > #content.ytd-expander:style(--ytd-expander-max-lines: none !important)
 ! Hides irrelevants search results
 www.youtube.com##[is-search] ytd-shelf-renderer.ytd-item-section-renderer:not(ytd-channel-renderer + ytd-shelf-renderer)
 www.youtube.com##[is-search] ytd-horizontal-card-list-renderer.ytd-item-section-renderer:not(:first-child)
