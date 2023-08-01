@@ -1,3 +1,7 @@
+! Remove Likes/Dislikes numbers from Youtube Studio
+studio.youtube.com##.likes-container
+studio.youtube.com##.ytcp-video-row.style-scope.right-align.tablecell-likes.cell-body
+studio.youtube.com##.ytcp-table-header.style-scope.cell-header.right-align.tablecell-likes
 ! Disables Youtube Home Page
 youtube.com##ytd-browse[page-subtype="home"]
 ! Removes End of video Cards/Video grid
