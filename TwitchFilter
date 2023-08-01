@@ -55,6 +55,3 @@ www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="vi
 www.twitch.tv##[data-a-player-type="channel_switcher"] > [data-test-selector="video-player__video-container"]
 www.twitch.tv##[data-a-player-type="channel_switcher"]
 www.twitch.tv##[class*="switcher-channel-info"]
-! Content I don't want to see
-www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/cooksux/i))
-www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/joeykaotyk/i))
