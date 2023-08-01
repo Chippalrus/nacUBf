@@ -11,6 +11,7 @@ www.youtube.com###dismissible:has(#text:has-text(/Rev says desu/i))
 www.youtube.com###dismissible:has(#text:has-text(/dramaalert/i))
 ! Other
 www.youtube.com###dismissible:has(#text:has-text(/TheLazyPeon/i))
+www.youtube.com###dismissible:has(#text:has-text(/Ultima alta/i))
 ! Religion BS
 www.youtube.com###dismissible:has(#text:has-text(/Vlad Savchuk/i))
 www.youtube.com###dismissible:has(#text:has-text(/8BE/i))
