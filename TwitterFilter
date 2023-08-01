@@ -1,3 +1,7 @@
+! OldTwitter (https://github.com/dimdenGD/OldTwitter)
+! Removes "Who to Follow" and displayed birthday from profile
+twitter.com##.profile-additional-birth-me.profile-additional-birth.profile-additional-thing
+twitter.com##[id="wtf"]
 ! Twitter, Blocks turkey man's stupid changes.
 twitter.com##[href="/i/twitter_blue_sign_up"]
 twitter.com##[aria-label="Get Verified"]:upward(1)
