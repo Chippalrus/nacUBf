@@ -9,7 +9,7 @@ twitter.com##[data-testid="sidebarColumn"] [href="/i/topics/picker/home"]:upward
 twitter.com##[aria-label$="trending now" i]
 twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
-twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
+! twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
 twitter.com##[role="presentation"]:has-text(/For you/)
 ! Follow/Recommended Topic | "[Name of Topic] See more"
