@@ -2,6 +2,8 @@
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/cooksux/i))
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/joeykaotyk/i))
 www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/xqc/i))
+www.twitch.tv##.tw-tower > :has([data-a-target="preview-card-channel-link"]:has-text(/AsianGuyStream/i))
+www.youtube.com###dismissible:has(#text:has-text(/AsianGuyStream/i))
 www.youtube.com###dismissible:has(#text:has-text(/Depressed Nousagi/i))
 www.youtube.com###dismissible:has(#text:has-text(/BeelzFlyLord/i))
 www.youtube.com###dismissible:has(#text:has-text(/Beelz FlyLord/i))
