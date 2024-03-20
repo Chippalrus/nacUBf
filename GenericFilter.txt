@@ -45,6 +45,8 @@ $removeparam=ats,domain=amazon.*
 $removeparam=qu,domain=amazon.*
 $removeparam=refinements,domain=amazon.*
 $removeparam=rps,domain=amazon.*
+$removeparam=dib,domain=amazon.*
+$removeparam=dib_tag,domain=amazon.*
 www.flickr.com##.theme-flat.ad-card
 www.flickr.com##.ad-rail-card
 www.flickr.com##.feed-rail-content-container
