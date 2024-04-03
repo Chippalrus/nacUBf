@@ -12,7 +12,7 @@ twitter.com##[aria-label="who to follow" i]:upward(1)
 twitter.com###layers>div:last-of-type:has-text(Switch to the app)
 ! twitter.com##div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 twitter.com##html:style(overflow: auto !important;)
-twitter.com##[role="presentation"]:has-text(/For you/)
+! twitter.com##[role="presentation"]:has-text(/For you/)
 ! Follow/Recommended Topic | "[Name of Topic] See more"
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(visibility: hidden !important)
 twitter.com##article [aria-label^="Follow Topic"], article [aria-label^="Recommended Topic"]:upward(article):style(height:0px !important)
