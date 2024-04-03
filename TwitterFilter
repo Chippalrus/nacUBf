@@ -52,6 +52,7 @@ twitter.com##[aria-label="Verified"]
 twitter.com##[aria-label*="View Tweet analytics"]
 twitter.com##div[aria-label="Timeline: Trending now"]
 twitter.com##[aria-label="Communities"]
+twitter.com##[aria-label="Grok"]
 twitter.com##[role="presentation"]:has-text(Highlights)
 twitter.com##[href="/i/verified-orgs-signup"]
 twitter.com##a[href="/explore/tabs/sports_unified"]
