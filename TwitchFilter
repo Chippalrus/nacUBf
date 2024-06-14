@@ -1,5 +1,5 @@
 ! Cosmetic/Simplify changes to Twitch website
-www.twitch.tv##[class*="Layout-sc-"] > [data-test-selector*="toggle-balloon-wrapper__mouse-enter-detect"]:has-text(/Ad/i)
+twitch.tv##[class*="Layout-sc-"] > [data-test-selector*="toggle-balloon-wrapper__mouse-enter-detect"]:has-text(/Ad/i)
 twitch.tv##[aria-label="Recommended Channels"]
 twitch.tv##button:has-text(/Get Ad-Free/i)
 twitch.tv##.extensions-dock-card
