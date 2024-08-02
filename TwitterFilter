@@ -1,5 +1,5 @@
-! Use OldTwitter for better Experience (https://github.com/dimdenGD/OldTwitter)
-! This will still be up for use, but I no longer update it.
+! Removes "get verified" when visiting your own profile
+x.com##[href="/i/premium_sign_up"]
 ! Removes "Who to Follow" and displayed birthday from profile
 twitter.com##.profile-additional-birth-me.profile-additional-birth.profile-additional-thing
 twitter.com##[id="wtf"]
