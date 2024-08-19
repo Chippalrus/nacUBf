@@ -1,4 +1,5 @@
 ! Cosmetic/Simplify changes to Twitch website
+www.twitch.tv##[aria-label="Discover Luna"]
 www.twitch.tv##.subtember-gradient
 www.twitch.tv##.tw-root--theme-light
 twitch.tv##[class*="Layout-sc-"] > [data-test-selector*="toggle-balloon-wrapper__mouse-enter-detect"]:has-text(/Ad/i)
